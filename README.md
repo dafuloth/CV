@@ -5,11 +5,11 @@ _probably too long but better to have but too much and have to tighten than not 
 
 I am passionate about solving real problems and building useful things, using code. Life, health, and circumstances might have had other ideas but software engineering has been a constant and unrelenting lifelong ambition that has become reality via the Makers Fellowship program.
 
-My journey started in primary school with a little pixellated turtle. Moving it around the screen with commands in Logo might not have looked like much but it was the spark that opened my mind to the possibilities of programming, and I've been hooked ever since. From there: QuickBASIC, Visual Basic, C/C++, C#, Java and now more recently, Ruby and JavaScript. The language may change but the problem-solving thought process is universal.
+My journey started in primary school with a little pixellated turtle. Moving it around the screen with commands in Logo might not have looked like much but it was the spark that opened my mind to the possibilities of programming, and I've been hooked ever since. From there: QuickBASIC (from the Windows 95 CD-ROM!), Visual Basic, C/C++, C#, Java and now more recently, Ruby and JavaScript. The language may change but the problem-solving thought process is universal.
 
-In a time when 28.8k dial-up internet was common and 56k was bleeding edge, when the web was a read-only resource in comparison to now, my interest was in making desktop applications that ran locally - and I dreamed of being a games developer. Techology, and my perspective, has evolved since then and I am not so narrow minded: the web is _the_ platform and I want to build web applications - and not necessarily games!
+In a time when 28.8k dial-up internet was common and 56k was bleeding edge, when the web was a read-only resource in comparison to now, my interest was in making desktop applications that ran locally - and I dreamed of being a games developer. Techology, and my perspective, has evolved a lot since then and I am not so narrow minded: the web is _the_ platform and I want to build web applications - and not necessarily games!
 
-And now I'm looking for my first developer job: I would love to discuss with ***you***, prospective employer, what kind of real problems I can help you to solve, and what sort of useful things we can build!
+So now I'm looking for my first developer job: if you're a prospective employer looking at this then I would love to discuss with ***you*** what kind of real problems you want to solve, and what sort of useful things we can build!
 
 ## Profiles
 
@@ -17,7 +17,7 @@ And now I'm looking for my first developer job: I would love to discuss with ***
 
 ## Skills
 
-#### This Skill
+#### I like to write things...
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -50,9 +50,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### University of Reading
 
 - DipHE Applied Computer Science
- >with industrial placement in functional QA at Oracle
+- Industrial placement in functional QA at Oracle
 
-#### Any other qualifications
 
 ## Experience
 
