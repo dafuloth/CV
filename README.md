@@ -50,11 +50,15 @@ At the first Editors meeting, I enquired why we didn't appear to have a website.
 
 #### University of Reading
 
-- DipHE Applied Computer Science
+###### DipHE Applied Computer Science ######
 - Industrial placement in functional QA at Oracle
+- [Microsoft Imagine Cup](https://en.wikipedia.org/wiki/Imagine_Cup) 2007 Software Design UK Finals - Theme: _Better Education_- Team Leader
+- [Microsoft Imagine Cup](https://en.wikipedia.org/wiki/Imagine_Cup) 2006 Software Design UK Finals - Theme: _Healthier Lives_- Team Member
 
 
 ## Experience
 
 **IKEA Wembley** (2014 to 2018)    
 Customer Service Co-worker 
+
+## Interests
