@@ -1,6 +1,8 @@
 _Initial draft of my GitHub CV. Italicised lines are notes/comments-to-self._
 
 ## David Thai
+_Jump to:_ [Profiles](https://github.com/dafuloth/CV/blob/master/README.md#Profiles) | [Skills](https://github.com/dafuloth/CV/blob/master/README.md#Skills) | [Education](https://github.com/dafuloth/CV/blob/master/README.md#Education) | [Experience](https://github.com/dafuloth/CV/blob/master/README.md#Experience) | [Interests](https://github.com/dafuloth/CV/blob/master/README.md#Interests)
+
 _probably too long but better to have but too much and have to tighten than not enough_
 
 I am passionate about solving real problems and building useful things, using code. Life, health, and circumstances might have had other ideas but software engineering has been a constant and unrelenting lifelong ambition that has become reality via the Makers Fellowship program.
