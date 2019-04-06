@@ -1,7 +1,7 @@
 _Initial draft of my GitHub CV. Italicised lines are notes/comments-to-self._
 
 ## David Thai
-_Jump to:_ [Profiles](https://github.com/dafuloth/CV/blob/master/README.md#Profiles) | [Skills](https://github.com/dafuloth/CV/blob/master/README.md#Skills) | [Education](https://github.com/dafuloth/CV/blob/master/README.md#Education) | [Experience](https://github.com/dafuloth/CV/blob/master/README.md#Experience) | [Interests](https://github.com/dafuloth/CV/blob/master/README.md#Interests)
+_Jump to:_ [Profiles](https://github.com/dafuloth/CV/blob/master/README.md#profiles) | [Skills](https://github.com/dafuloth/CV/blob/master/README.md#skills) | [Education](https://github.com/dafuloth/CV/blob/master/README.md#education) | [Experience](https://github.com/dafuloth/CV/blob/master/README.md#experience) | [Interests](https://github.com/dafuloth/CV/blob/master/README.md#other-interests)
 
 _probably too long but better to have but too much and have to tighten than not enough_
 
@@ -43,7 +43,7 @@ At the first Editors meeting, I enquired why we didn't appear to have a website.
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- Great collaborator [PROVIDE EVIDENCE], [MakersBnB]
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
@@ -63,4 +63,10 @@ At the first Editors meeting, I enquired why we didn't appear to have a website.
 **IKEA Wembley** (2014 to 2018)    
 Customer Service Co-worker 
 
-## Interests
+## Other Interests
+
+- Games: board-, card-, and video-
+- (Returning-)Roleplayer and lapsed LARPer.
+- Writing
+- Sci-fi and horror
+- Formerly: karaoke - a bit out of practice now
