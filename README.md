@@ -1,8 +1,6 @@
-<link rel="stylesheet" href="cv.css">
+<h1 align = "center">David Thai</h1>
 
-<h1>David Thai</h1>
-
-<p class = "profiles"><a href="https://github.com/dafuloth">GitHub</a> | <a href="https://www.linkedin.com/in/dafuloth/">LinkedIn</a> | <a href="https://www.codewars.com/users/dafuloth">Codewars</a> | <a href="https://medium.com/@dafuloth">Medium</a></p>
+<p align = "center"><a href="https://github.com/dafuloth">GitHub</a> | <a href="https://www.linkedin.com/in/dafuloth/">LinkedIn</a> | <a href="https://www.codewars.com/users/dafuloth">Codewars</a> | <a href="https://medium.com/@dafuloth">Medium</a></p>
 
 ## Interesting Projects
 
