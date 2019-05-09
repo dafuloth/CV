@@ -1,21 +1,62 @@
-_Initial draft of my GitHub CV. Italicised lines are notes/comments-to-self._
+<link rel="stylesheet" href="cv.css">
 
-## David Thai
-_Jump to:_ [Profiles](https://github.com/dafuloth/CV/blob/master/README.md#profiles) | [Skills](https://github.com/dafuloth/CV/blob/master/README.md#skills) | [Education](https://github.com/dafuloth/CV/blob/master/README.md#education) | [Experience](https://github.com/dafuloth/CV/blob/master/README.md#experience) | [Interests](https://github.com/dafuloth/CV/blob/master/README.md#other-interests)
+<h1>David Thai</h1>
 
-_probably too long but better to have but too much and have to tighten than not enough_
+<p class = "profiles"><a href="https://github.com/dafuloth">GitHub</a> | <a href="https://www.linkedin.com/in/dafuloth/">LinkedIn</a> | <a href="https://www.codewars.com/users/dafuloth">Codewars</a> | <a href="https://medium.com/@dafuloth">Medium</a></p>
+
+## Interesting Projects
+
+<table>
+  <tr>
+    <th>Week</th>
+    <th colspan="2">Project</th>
+  </tr>
+
+  <tr>
+    <td>3</td>
+    <td><a href="https://github.com/dafuloth/rps-challenge">Rock, Paper, Scissors</a></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>5-6</td>
+    <td><a href="https://github.com/dafuloth/bowling-challenge">Bowling</a></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>7</td>
+    <td><a href="https://github.com/dafuloth/NotesApp">Notes App</a></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>8</td>
+    <td><a href="https://github.com/dafuloth/instagram-challenge">Instagram Clone</a></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>12</td>
+    <td><a href="https://github.com/dafuloth/python_bank">Bank Test Test in Python</a></td>
+    <td></td>
+  </tr>
+</table>
+
+
+_Jump to:_ [Skills](https://github.com/dafuloth/CV/blob/master/README.md#skills) | [Education](https://github.com/dafuloth/CV/blob/master/README.md#education) | [Experience](https://github.com/dafuloth/CV/blob/master/README.md#experience) | [Interests](https://github.com/dafuloth/CV/blob/master/README.md#other-interests)
+
+
+## About Me
 
 I am passionate about solving real problems and building useful things, using code. Life, health, and circumstances might have had other ideas but software engineering has been a lifelong ambition that I am now making a reality, thanks to the Makers Fellowship program.
 
 My journey started in primary school with a little pixellated turtle. Moving it around the screen with commands in Logo might not have looked like much but it was the spark that opened my mind to the possibilities of programming, and I've been hooked ever since. From there: QuickBASIC (from the Windows 95 CD-ROM!), Visual Basic, C/C++, C#, Java and now more recently, Ruby and JavaScript. The language may change but the problem-solving thought process is universal.
 
-In a time when 28.8k dial-up internet was common and 56k was bleeding edge, when the web was a more of a read-only resource (compared to what it is now), my interest was in making desktop applications that ran locally - and I dreamed of being a games developer. Techology, and my perspective, has evolved a lot since then and my mind is open to the possibilties that now exist: the web is _the_ platform and I want to build web applications - and not necessarily games!
+In a time when 28.8k dial-up internet was common and 56k was bleeding edge, when the web was rather more read-only (compared to what it is now), my interest was in making desktop applications that ran locally - and I dreamed of being a games developer. Techology, and my perspective, has evolved a lot since then and my mind is open to the possibilties that now exist: the web is _the_ platform and I want to build web applications - and not necessarily games!
 
 So now I'm looking for my first developer job: if you're a prospective employer looking at this then I would love to discuss with ***you*** what kind of real problems you want to solve, and what sort of useful things we can build!
 
-## Profiles
-
-[GitHub](https://github.com/dafuloth) | [LinkedIn](https://www.linkedin.com/in/dafuloth/) | [Codewars](https://www.codewars.com/users/dafuloth) | [Medium](https://medium.com/@dafuloth)
 
 ## Skills
 
@@ -39,7 +80,7 @@ At the first Editors meeting, I enquired why we didn't appear to have a website.
 
 ## Education
 
-#### Makers Academy (7 January 2019 - _present_)
+### Makers Academy (7 January 2019 - _present_)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -50,9 +91,9 @@ At the first Editors meeting, I enquired why we didn't appear to have a website.
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### University of Reading
+### University of Reading
 
-###### DipHE Applied Computer Science ######
+#### DipHE Applied Computer Science ######
 - Industrial placement in functional QA at Oracle
 - [Microsoft Imagine Cup](https://en.wikipedia.org/wiki/Imagine_Cup) 2007 Software Design UK Finals - Theme: _Better Education_- Team Leader
 - [Microsoft Imagine Cup](https://en.wikipedia.org/wiki/Imagine_Cup) 2006 Software Design UK Finals - Theme: _Healthier Lives_- Team Member
