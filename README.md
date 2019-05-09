@@ -35,6 +35,12 @@
   </tr>
 
   <tr>
+    <td>11-12</td>
+    <td><a href="https://github.com/dafuloth/SODA">Makers Final Project: Team SODA</a></td>
+    <td></td>
+  </tr>
+
+  <tr>
     <td>12</td>
     <td><a href="https://github.com/dafuloth/python_bank">Bank Test Test in Python</a></td>
     <td></td>
