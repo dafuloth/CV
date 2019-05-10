@@ -2,37 +2,27 @@
 
 <h1 align="center">David Thai</h1>
 
-<div align="center">
-  <div style="display: inline-block;">
-    <a href="https://github.com/dafuloth">
-      <img style="vertical-align:middle;" src="./icons/github-square.svg" alt="GitHub" height="50px">&nbsp;GitHub
-    </a>
-  </div>
-
-  <div style="display:inline-block; vertical-align:middle; padding-left: 1.25em;"></div>
-
-  <div style="display: inline-block; vertical-align:middle;">
-    <a href="https://www.linkedin.com/in/dafuloth/">
-      <img style="vertical-align:middle;" src="./icons/linkedin.svg" alt="LinkedIn" height="50px">&nbsp;LinkedIn
-    </a>
-  </div>
-
-  <div style="display:inline-block; vertical-align:middle; padding-left: 1.25em;"></div>
-
-  <div style="display: inline-block;  vertical-align:middle;">
-    <a href="https://www.codewars.com/users/dafuloth">
-      <img style="vertical-align:middle;" src="./icons/codewars-icon.svg" alt="Codewars" height="50px">&nbsp;Codewars
-    </a>
-  </div>
-
-  <div style="display:inline-block; vertical-align:middle; padding-left: 1.25em;"></div>
-
-  <div style="display: inline-block;  vertical-align:middle;">
-    <a href="https://medium.com/@dafuloth">
-      <img style="vertical-align:middle;" src="./icons/medium.svg" alt="Medium" height="50px">&nbsp;Medium
-    </a>
-  </div>
-</div>
+<p align="center">
+  <a href="https://github.com/dafuloth">
+    <img src="./icons/github-square.svg" alt="GitHub" height="50" align="center">
+    <span>GitHub</span>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/dafuloth/">
+    <img src="./icons/linkedin.svg" alt="LinkedIn" height="50" align="center">
+    <span>LinkedIn</span>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.codewars.com/users/dafuloth">
+    <img src="./icons/codewars-icon.svg" alt="Codewars" height="50" align="center">
+    <span>Codewars</span>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@dafuloth">
+    <img src="./icons/medium.svg" alt="Medium" height="50" align="center">
+    <span>Medium</span>
+  </a>  
+</p>
 
 ## Interesting Projects
 
