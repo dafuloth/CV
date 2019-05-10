@@ -2,27 +2,11 @@
 
 <h1 align="center">David Thai</h1>
 
-<p align="center">
-  <a href="https://github.com/dafuloth">
-    <img src="./icons/github-square.svg" alt="GitHub" height="50" align="center">
-    <span>GitHub</span>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/dafuloth/">
-    <img src="./icons/linkedin.svg" alt="LinkedIn" height="50" align="center">
-    <span>LinkedIn</span>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.codewars.com/users/dafuloth">
-    <img src="./icons/codewars-icon.svg" alt="Codewars" height="50" align="center">
-    <span>Codewars</span>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@dafuloth">
-    <img src="./icons/medium.svg" alt="Medium" height="50" align="center">
-    <span>Medium</span>
-  </a>  
-</p>
+<div align="center">
+
+  [<img src="./icons/github-square.svg" alt="GitHub" height="50" align="center">&nbsp;GitHub](https://github.com/dafuloth)&nbsp;&nbsp;&nbsp;[<img src="./icons/linkedin.svg" alt="LinkedIn" height="50" align="center">&nbsp;LinkedIn](https://www.linkedin.com/in/dafuloth/)&nbsp;&nbsp;&nbsp;[<img src="./icons/codewars-icon.svg" alt="Codewars" height="50" align="center">&nbsp;Codewars](https://www.linkedin.com/in/dafuloth/)&nbsp;&nbsp;&nbsp;[<img src="./icons/medium.svg" alt="Medium" height="50" align="center">&nbsp;Medium](https://medium.com/@dafuloth)
+
+</div>
 
 ## Interesting Projects
 
@@ -139,4 +123,6 @@ Customer Service Co-worker
 
 ***
 
-*Acknowledgements: GitHub, LinkedIn, and Medium icons from [Font Awesome Free](https://github.com/FortAwesome/Font-Awesome), CC BY 4.0 License - but LinkedIn SVG edited by me to recolour it #0073b1. Codewars icon adapted from [profile badge SVG](https://www.codewars.com/users/dafuloth/badges)*
+*Acknowledgements: GitHub, LinkedIn, and Medium icons from [<img src="./icons/font-awesome-logo-full.svg" alt="Font Awesome Free" height="16px" align="center">](https://github.com/FortAwesome/Font-Awesome), CC BY 4.0 License - but LinkedIn SVG edited by me to recolour it #0073b1. Codewars icon adapted from [profile badge SVG](https://www.codewars.com/users/dafuloth/badges)*
+
+
