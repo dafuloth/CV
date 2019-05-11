@@ -89,15 +89,15 @@ At the first Editors meeting, I enquired why we didn't appear to have a website.
 
 ## Education
 
-### Makers Academy (7 January 2419 - _present_)
+### Makers Academy (January 2019 - April 2019)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE], [MakersBnB]
+- Curious and passionate about code.
+- Fast, independent learner
+- Great collaborator
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Python, JavaScript, Rails
+- Ruby, Python, HTML5, CSS3, JavaScript, Rails
 - RSpec, Jasmine, Cypress, pytest
 
 ### University of Reading
