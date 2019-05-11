@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[<img src="./icons/github-square.svg" alt="GitHub" height="50" align="center">&nbsp;GitHub](https://github.com/dafuloth)&nbsp;&nbsp;&nbsp;[<img src="./icons/linkedin.svg" alt="LinkedIn" height="50" align="center">&nbsp;LinkedIn](https://www.linkedin.com/in/dafuloth/)&nbsp;&nbsp;&nbsp;[<img src="./icons/codewars-icon.svg" alt="Codewars" height="50" align="center">&nbsp;Codewars](https://www.linkedin.com/in/dafuloth/)&nbsp;&nbsp;&nbsp;[<img src="./icons/medium.svg" alt="Medium" height="50" align="center">&nbsp;Medium](https://medium.com/@dafuloth)
+[<img src="./icons/github-square.svg" alt="GitHub" height="30" align="center">&nbsp;GitHub](https://github.com/dafuloth)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/linkedin.svg" alt="LinkedIn" height="30" align="center">&nbsp;LinkedIn](https://www.linkedin.com/in/dafuloth/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/codewars-icon.svg" alt="Codewars" height="30" align="center">&nbsp;Codewars](https://www.linkedin.com/in/dafuloth/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/medium.svg" alt="Medium" height="30" align="center">&nbsp;Medium](https://medium.com/@dafuloth)
 
 </div>
 
