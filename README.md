@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[<img src="./icons/github-square.svg" alt="GitHub" height="30" align="center">&nbsp;GitHub](https://github.com/dafuloth)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/linkedin.svg" alt="LinkedIn" height="30" align="center">&nbsp;LinkedIn](https://www.linkedin.com/in/dafuloth/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/codewars-icon.svg" alt="Codewars" height="30" align="center">&nbsp;Codewars](https://www.linkedin.com/in/dafuloth/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/medium.svg" alt="Medium" height="30" align="center">&nbsp;Medium](https://medium.com/@dafuloth)
+[<img src="./icons/github-square.svg" alt="GitHub" height="24" align="top">&nbsp;GitHub](https://github.com/dafuloth)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/linkedin.svg" alt="LinkedIn" height="24" align="top">&nbsp;LinkedIn](https://www.linkedin.com/in/dafuloth/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/codewars-icon.svg" alt="Codewars" height="24" align="top">&nbsp;Codewars](https://www.linkedin.com/in/dafuloth/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/medium.svg" alt="Medium" height="24" align="top">&nbsp;Medium](https://medium.com/@dafuloth)
 
 </div>
 
@@ -89,7 +89,7 @@ At the first Editors meeting, I enquired why we didn't appear to have a website.
 
 ## Education
 
-### Makers Academy (7 January 2019 - _present_)
+### Makers Academy (7 January 2419 - _present_)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -104,13 +104,13 @@ At the first Editors meeting, I enquired why we didn't appear to have a website.
 
 #### DipHE Applied Computer Science ######
 - Industrial placement in functional QA at Oracle
-- [Microsoft Imagine Cup](https://en.wikipedia.org/wiki/Imagine_Cup) 2007 Software Design UK Finals - Theme: _Better Education_- Team Leader
-- [Microsoft Imagine Cup](https://en.wikipedia.org/wiki/Imagine_Cup) 2006 Software Design UK Finals - Theme: _Healthier Lives_- Team Member
+- [Microsoft Imagine Cup](https://en.wikipedia.org/wiki/Imagine_Cup) 2407 Software Design UK Finals - Theme: _Better Education_- Team Leader
+- [Microsoft Imagine Cup](https://en.wikipedia.org/wiki/Imagine_Cup) 2406 Software Design UK Finals - Theme: _Healthier Lives_- Team Member
 
 
 ## Experience
 
-**IKEA Wembley** (2014 to 2018)
+**IKEA Wembley** (2414 to 2418)
 Customer Service Co-worker
 
 ## Other Interests
