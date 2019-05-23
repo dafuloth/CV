@@ -13,19 +13,20 @@
 <table>
   <tr>
     <th>Week</th>
-    <th colspan="3" align="left">Project</th>
+    <th colspan="2" align="left">Project Information</th>
 
   </tr>
 
   <tr>
     <td>3</td>
     <td><a href="https://github.com/dafuloth/rps-challenge">Rock, Paper, Scissors</a></td>
-    <td>Using the lightweight <i>Sinatra</i> framework I build a web app in Ruby, adhering to the MVC pattern. I get to have some fun with HTML and CSS. Finally, I take this opportunity to investigate Heroku, and use it for the first time, deploying my app there.</td>
     <td>
-      <img src="icons\ruby.jpg" height="36px" width="36px" alt="Ruby">
-      <img src="icons\html5.svg" height="36px" width="36px" alt="HTML5"><br>
-      <img src="icons\css3-alt.svg" height="36px" width="36px" alt="CSS3">
-      <img src="icons\heroku-logotype-vertical-purple.svg" height="36px" width="36px" alt="Heroku">
+      <ul>
+        <li>Built a web app in Ruby, using the Sinatra framework</li>
+        <li>Adhering to the MVC pattern</li>
+        <li>Have some fun with HTML and CSS</li>
+        <li>Experiment with Heroku. Using it for the first time, I deploy my app <a href="https://quiet-wildwood-32600.herokuapp.com/">there</a></li>
+      </ul>
     </td>
   </tr>
 
@@ -33,7 +34,6 @@
     <td>5-6</td>
     <td><a href="https://github.com/dafuloth/bowling-challenge">Bowling</a></td>
     <td></td>
-        <td></td>
   </tr>
 
   <tr>
