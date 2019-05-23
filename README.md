@@ -9,11 +9,11 @@
 </div>
 
 ## Interesting Projects
-*All by TDD, with attention to code quality: e.g. `rubocop` for **Ruby**, `eslint` for **JavaScript**, `pylint` for **Python**, aiming for clean and easily maintained code.*
+*Test-Driven-Development, emphasising Behaviour-Driven-Development with attention to code quality: e.g. `rubocop` for **Ruby**, `eslint` for **JavaScript**, `pylint` for **Python**, aiming for clean and easily maintained code.*
 <table>
   <tr>
     <th>Week</th>
-    <th colspan="2" align="left">Project Information</th>
+    <th colspan="2" align="left">Projects</th>
 
   </tr>
 
@@ -22,10 +22,10 @@
     <td><a href="https://github.com/dafuloth/rps-challenge">Rock, Paper, Scissors</a></td>
     <td>
       <ul>
-        <li>Built a web app in Ruby, using the Sinatra framework</li>
-        <li>Adhering to the MVC pattern</li>
-        <li>Have some fun with HTML and CSS</li>
-        <li>Experiment with Heroku. Using it for the first time, I deploy my app <a href="https://quiet-wildwood-32600.herokuapp.com/">there</a></li>
+        <li>Built a web app in <i>Ruby</i>, using the <i>Sinatra</i> framework. <i>RSpec</i> for TDD/BDD</li>
+        <li>Adhered to the MVC pattern</li>
+        <li>Had some fun with HTML and CSS</li>
+        <li>Experimented with <i>Heroku</i>. Work out how to deploy my app <a href="https://quiet-wildwood-32600.herokuapp.com/">there</a></li>
       </ul>
     </td>
   </tr>
@@ -33,7 +33,13 @@
   <tr>
     <td>5-6</td>
     <td><a href="https://github.com/dafuloth/bowling-challenge">Bowling</a></td>
-    <td></td>
+    <td>
+      <ul>
+        <li>Introduced to <i>JavaScript</i> in Week 5, I apply what I learn to this CLI app</li>
+        <li>TDD/BDD with <i>Jasmine</i> and automated tests with Travis CI</li>
+        <li>Heavy use of Chrome DevTools for development and debugging </li>
+      </ul>
+    </td>
   </tr>
 
   <tr>
@@ -111,7 +117,6 @@ At the first Editors meeting, I enquired why we didn't appear to have a website.
 ### University of Reading
 
 #### DipHE Applied Computer Science ######
-- Industrial placement in functional QA at Oracle
 - [Microsoft Imagine Cup](https://en.wikipedia.org/wiki/Imagine_Cup) 2007 Software Design UK Finals - Theme: _Better Education_- Team Leader
 - [Microsoft Imagine Cup](https://en.wikipedia.org/wiki/Imagine_Cup) 2006 Software Design UK Finals - Theme: _Healthier Lives_- Team Member
 
@@ -121,11 +126,14 @@ At the first Editors meeting, I enquired why we didn't appear to have a website.
 **IKEA Wembley** (2014 to 2018)
 Customer Service Co-worker
 
+**Oracle Corporation UK Ltd.** (2008)  
+QA Engineer - Industrial Placement
+
 ## Other Interests
 
 - Games: board-, card-, and video-
 - (Returning-)Roleplayer and lapsed LARPer.
-- Writing
+- Writing: Making full use of Markdown for nice GitHub READMEs, and a [Makers Survival Guide](https://blog.makersacademy.com/tagged/makers-survival-guide)
 - Sci-fi and horror
 - Formerly: karaoke - a bit out of practice now
 
