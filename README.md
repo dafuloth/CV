@@ -9,23 +9,31 @@
 </div>
 
 ## Interesting Projects
-
+*All by TDD, with attention to code quality: e.g. `rubocop` for **Ruby**, `eslint` for **JavaScript**, `pylint` for **Python**, aiming for clean and easily maintained code.*
 <table>
   <tr>
     <th>Week</th>
-    <th colspan="2" align="left">Project</th>
+    <th colspan="3" align="left">Project</th>
+
   </tr>
 
   <tr>
     <td>3</td>
     <td><a href="https://github.com/dafuloth/rps-challenge">Rock, Paper, Scissors</a></td>
-    <td></td>
+    <td>Using the lightweight <i>Sinatra</i> framework I build a web app in Ruby, adhering to the MVC pattern. I get to have some fun with HTML and CSS. Finally, I take this opportunity to investigate Heroku, and use it for the first time, deploying my app there.</td>
+    <td>
+      <img src="icons\ruby.jpg" height="36px" width="36px" alt="Ruby">
+      <img src="icons\html5.svg" height="36px" width="36px" alt="HTML5"><br>
+      <img src="icons\css3-alt.svg" height="36px" width="36px" alt="CSS3">
+      <img src="icons\heroku-logotype-vertical-purple.svg" height="36px" width="36px" alt="Heroku">
+    </td>
   </tr>
 
   <tr>
     <td>5-6</td>
     <td><a href="https://github.com/dafuloth/bowling-challenge">Bowling</a></td>
     <td></td>
+        <td></td>
   </tr>
 
   <tr>
