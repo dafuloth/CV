@@ -12,13 +12,13 @@
 *Test-Driven-Development, emphasising Behaviour-Driven-Development with attention to code quality: e.g. `rubocop` for **Ruby**, `eslint` for **JavaScript**, `pylint` for **Python**, aiming for clean and easily maintained code.*
 <table>
   <tr>
-    <th>Week</th>
+    <th>&nbsp;Week&nbsp;</th>
     <th colspan="2" align="left">Projects</th>
 
   </tr>
 
   <tr>
-    <td>3</td>
+    <td align="center">3</td>
     <td><a href="https://github.com/dafuloth/rps-challenge">Rock, Paper, Scissors</a></td>
     <td>
       <ul>
@@ -31,7 +31,7 @@
   </tr>
 
   <tr>
-    <td>5-6</td>
+    <td align="center">5-6</td>
     <td><a href="https://github.com/dafuloth/bowling-challenge">Bowling</a></td>
     <td>
       <ul>
@@ -43,25 +43,25 @@
   </tr>
 
   <tr>
-    <td>7</td>
+    <td align="center">7</td>
     <td><a href="https://github.com/dafuloth/NotesApp">Notes App</a></td>
     <td></td>
   </tr>
 
   <tr>
-    <td>8</td>
+    <td align="center">8</td>
     <td><a href="https://github.com/dafuloth/instagram-challenge">Instagram Clone</a></td>
     <td></td>
   </tr>
 
   <tr>
-    <td>11-12</td>
+    <td align="center">11-12</td>
     <td><a href="https://github.com/dafuloth/SODA">Makers Final Project: Team SODA</a></td>
     <td></td>
   </tr>
 
   <tr>
-    <td>12</td>
+    <td align="center">12</td>
     <td><a href="https://github.com/dafuloth/python_bank">Bank Test Test in Python</a></td>
     <td></td>
   </tr>
