@@ -9,7 +9,10 @@
 </div>
 
 ## Interesting Projects
-*Test-Driven-Development, emphasising Behaviour-Driven-Development with attention to code quality: e.g. `rubocop` for **Ruby**, `eslint` for **JavaScript**, `pylint` for **Python**, aiming for clean and easily maintained code.*
+* TDD, emphasising BDD. Testing frameworks: `RSpec`, `Jasmine`, `pytest`
+* Attention to code quality: e.g. `rubocop`, `eslint`, `pylint`
+* CI/CD with `Travis CI` and `Heroku`
+
 <table>
   <tr>
     <td colspan="2" align="left"><em>Some of the things I've done at Makers:</em></td>
@@ -17,34 +20,59 @@
   </tr>
 
   <tr>
-    <td><a href="https://github.com/dafuloth/rps-challenge">Rock, Paper, Scissors</a></td>
+    <td><a href="https://github.com/dafuloth/rps-challenge"><strong>Rock, Paper, Scissors</strong></a><br>
+      <img src="icons\ruby.jpg" height="36px" width="36px" alt="Ruby">
+      <img src="icons\rspec.png" height="36px" width="36px" alt="RSpec">
+      <img src="icons\html5.svg" height="36px" width="36px" alt="HTML5">
+      <img src="icons\css3-alt.svg" height="36px" width="36px" alt="CSS3"><br>
+      <img src="icons\TravisCI.png" height="36px"  alt="Travis CI">
+      <img src="icons\heroku-logotype-vertical-purple.svg" height="36px" width="36px" alt="Heroku">
+    </td>
     <td>
       <ul>
-        <li>Built a web app in <i>Ruby</i>, using the <i>Sinatra</i> framework. <i>RSpec</i> for TDD/BDD</li>
+        <li><code>Capybara</code> for front-end feature tests</li>
         <li>Adhered to the MVC pattern</li>
-        <li>Had some fun with HTML and CSS</li>
-        <li>Experimented with <i>Heroku</i>. Work out how to deploy my app <a href="https://quiet-wildwood-32600.herokuapp.com/">there</a></li>
+        <li>Had some fun with <code>HTML5</code> and <code>CSS3</code></li>
+        <li>Experimented with <code>Heroku</code>, deploying my app <a href="https://quiet-wildwood-32600.herokuapp.com/">there</a></li>
       </ul>
     </td>
   </tr>
 
   <tr>
-    <td><a href="https://github.com/dafuloth/bowling-challenge">Bowling</a></td>
+    <td>
+      <a href="https://github.com/dafuloth/bowling-challenge"><strong>Bowling</strong></a><br>
+      <img src="icons\JavaScript.svg" height="36px" width="36px" alt="JavaScript">
+      <img src="icons\jasmine.svg" height="36px" width="36px" alt="Jasmine">
+      <img src="icons\Chrome.svg" height="36px" width="36px" alt="Chrome"><br>
+      <img src="icons\TravisCI.png" height="36px"  alt="Travis CI">
+    </td>
     <td>
       <ul>
-        <li>Introduced to <i>JavaScript</i> in Week 5, I apply what I learn to this CLI app</li>
-        <li>TDD/BDD with <i>Jasmine</i> and automated tests with Travis CI</li>
+        <li>Introduced to <code>JavaScript</code> in Week 5, I apply what I learn to a Bowling Scorecard</li>
         <li>Heavy use of Chrome DevTools for development and debugging </li>
       </ul>
     </td>
   </tr>
 
   <tr>
-    <td><a href="https://github.com/dafuloth/NotesApp">Notes App</a></td>
-    <td></td>
+    <td>
+      <a href="https://github.com/dafuloth/instagram-challenge"><strong>Instagram Clone</strong></a><br>
+      <img src="icons\Ruby_On_Rails_Logo.svg" height="36px"  alt="Ruby on Rails">
+      <img src="icons\ruby.jpg" height="36px" width="36px" alt="Ruby"><br>
+      <img src="icons\rspec.png" height="36px" width="36px" alt="RSpec">
+      <img src="icons\materialize.svg" height="36px" alt="Materialize">
+      <img src="icons\heroku-logotype-vertical-purple.svg" height="36px" width="36px" alt="Heroku">
+      <img src="icons\TravisCI.png" height="36px"  alt="Travis CI">
+    </td>
+    <td>
+      <ul>
+        <li>A sandbox for spiking Materialize and self-directed learning</li>
+        <li>Implementation of a CI/CD pipeline.</li>
+        <li>Travis CI facilitates Continuous Testing</li>
+        <li>Automatically deploys to Heroku when tests pass</li>
+      </ul>
+    </td>
   </tr>
-
-
 
   <tr>
     <td><a href="https://github.com/dafuloth/SODA">Makers Final Project: Team SODA</a></td>
