@@ -21,12 +21,12 @@
 
   <tr>
     <td><a href="https://github.com/dafuloth/rps-challenge"><strong>Rock, Paper, Scissors</strong></a><br>
-      <img src="icons\ruby.jpg" height="36px" width="36px" alt="Ruby">
-      <img src="icons\rspec.png" height="36px" width="36px" alt="RSpec">
-      <img src="icons\html5.svg" height="36px" width="36px" alt="HTML5">
-      <img src="icons\css3-alt.svg" height="36px" width="36px" alt="CSS3"><br>
-      <img src="icons\TravisCI.png" height="36px"  alt="Travis CI">
-      <img src="icons\heroku-logotype-vertical-purple.svg" height="36px" width="36px" alt="Heroku">
+      <img src="./icons/ruby.jpg" height="36px" width="36px" alt="Ruby">
+      <img src="./icons/rspec.png" height="36px" width="36px" alt="RSpec">
+      <img src="./icons/html5.svg" height="36px" width="36px" alt="HTML5">
+      <img src="./icons/css3-alt.svg" height="36px" width="36px" alt="CSS3"><br>
+      <img src="./icons/TravisCI.png" height="36px"  alt="Travis CI">
+      <img src="./icons/heroku-logotype-vertical-purple.svg" height="36px" width="36px" alt="Heroku">
     </td>
     <td>
       <ul>
@@ -41,10 +41,10 @@
   <tr>
     <td>
       <a href="https://github.com/dafuloth/bowling-challenge"><strong>Bowling</strong></a><br>
-      <img src="icons\JavaScript.svg" height="36px" width="36px" alt="JavaScript">
-      <img src="icons\jasmine.svg" height="36px" width="36px" alt="Jasmine">
-      <img src="icons\Chrome.svg" height="36px" width="36px" alt="Chrome"><br>
-      <img src="icons\TravisCI.png" height="36px"  alt="Travis CI">
+      <img src="./icons/JavaScript.svg" height="36px" width="36px" alt="JavaScript">
+      <img src="./icons/jasmine.svg" height="36px" width="36px" alt="Jasmine">
+      <img src="./icons/Chrome.svg" height="36px" width="36px" alt="Chrome"><br>
+      <img src="./icons/TravisCI.png" height="36px"  alt="Travis CI">
     </td>
     <td>
       <ul>
@@ -57,12 +57,12 @@
   <tr>
     <td>
       <a href="https://github.com/dafuloth/instagram-challenge"><strong>Instagram Clone</strong></a><br>
-      <img src="icons\Ruby_On_Rails_Logo.svg" height="36px"  alt="Ruby on Rails">
-      <img src="icons\ruby.jpg" height="36px" width="36px" alt="Ruby"><br>
-      <img src="icons\rspec.png" height="36px" width="36px" alt="RSpec">
-      <img src="icons\materialize.svg" height="36px" alt="Materialize">
-      <img src="icons\heroku-logotype-vertical-purple.svg" height="36px" width="36px" alt="Heroku">
-      <img src="icons\TravisCI.png" height="36px"  alt="Travis CI">
+      <img src="./icons/Ruby_On_Rails_Logo.svg" height="36px"  alt="Ruby on Rails">
+      <img src="./icons/ruby.jpg" height="36px" width="36px" alt="Ruby"><br>
+      <img src="./icons/rspec.png" height="36px" width="36px" alt="RSpec">
+      <img src="./icons/materialize.svg" height="36px" alt="Materialize">
+      <img src="./icons/heroku-logotype-vertical-purple.svg" height="36px" width="36px" alt="Heroku">
+      <img src="./icons/TravisCI.png" height="36px"  alt="Travis CI">
     </td>
     <td>
       <ul>
@@ -72,11 +72,6 @@
         <li>Automatically deploys to Heroku when tests pass</li>
       </ul>
     </td>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/dafuloth/SODA">Makers Final Project: Team SODA</a></td>
-    <td></td>
   </tr>
 
   <tr>
