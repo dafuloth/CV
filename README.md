@@ -16,7 +16,6 @@
 <table>
   <tr>
     <td colspan="2" align="left"><em>Some of the things I've done at Makers:</em></td>
-
   </tr>
 
   <tr>
@@ -31,7 +30,6 @@
     <td>
       <ul>
         <li><code>Capybara</code> for front-end feature tests</li>
-        <li>Adhered to the MVC pattern</li>
         <li>Had some fun with <code>HTML5</code> and <code>CSS3</code></li>
         <li>Experimented with <code>Heroku</code>, deploying my app <a href="https://quiet-wildwood-32600.herokuapp.com/">there</a></li>
       </ul>
@@ -49,7 +47,7 @@
     <td>
       <ul>
         <li>Introduced to <code>JavaScript</code> in Week 5, I apply what I learn to a Bowling Scorecard</li>
-        <li>Heavy use of Chrome DevTools for development and debugging </li>
+        <li>Development and debugging using <code>Chrome DevTools</code></li>
       </ul>
     </td>
   </tr>
@@ -66,17 +64,24 @@
     </td>
     <td>
       <ul>
-        <li>A sandbox for spiking Materialize and self-directed learning</li>
+        <li>A sandbox for learning, spiking <code>Materialize</code> and <code>Rails</code> experiments</li>
         <li>Implementation of a CI/CD pipeline.</li>
-        <li>Travis CI facilitates Continuous Testing</li>
-        <li>Automatically deploys to Heroku when tests pass</li>
+        <li><code>Travis CI</code> facilitates Continuous Testing</li>
+        <li>Automatically deploys to <code>Heroku</code> when tests pass</li>
       </ul>
     </td>
   </tr>
 
   <tr>
-    <td><a href="https://github.com/dafuloth/python_bank">Bank Test Test in Python</a></td>
-    <td></td>
+    <td>
+      <a href="https://github.com/dafuloth/python_bank"><strong>Bank Test Test in Python</strong></a><br>
+      <img src="./icons/Python-logo-notext.svg" height="36px" width="36px" alt="Python">
+      <img src="./icons/pytest1.png" height="36px" width="40px" alt="pytest">
+      <img src="./icons/TravisCI.png" height="36px"  alt="Travis CI">
+    </td>
+    <td>
+      Tackling the "Bank" tech-test to get reacquinted with Python!
+    </td>
   </tr>
 </table>
 
@@ -121,7 +126,6 @@ At the first Editors meeting, I enquired why we didn't appear to have a website.
 - Curious and passionate about code.
 - Fast, independent learner
 - Great collaborator
-
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Python, HTML5, CSS3, JavaScript, Rails
@@ -136,7 +140,7 @@ At the first Editors meeting, I enquired why we didn't appear to have a website.
 
 ## Experience
 
-**IKEA Wembley** (2014 to 2018)
+**IKEA Wembley** (2014 to 2018)  
 Customer Service Co-worker
 
 **Oracle Corporation UK Ltd.** (2008)  
@@ -144,14 +148,16 @@ QA Engineer - Industrial Placement
 
 ## Other Interests
 
+- Writing: Making full use of Markdown for nice GitHub READMEs, and a [Makers Survival Guide](https://blog.makersacademy.com/tagged/makers-survival-guide)
+  
 - Games: board-, card-, and video-
 - (Returning-)Roleplayer and lapsed LARPer.
-- Writing: Making full use of Markdown for nice GitHub READMEs, and a [Makers Survival Guide](https://blog.makersacademy.com/tagged/makers-survival-guide)
 - Sci-fi and horror
 - Formerly: karaoke - a bit out of practice now
 
 ***
+<details>
+<summary><em>Acknowledgements:</em></summary>
 
-*Acknowledgements: GitHub, LinkedIn, and Medium icons from [<img src="./icons/font-awesome-logo-full.svg" alt="Font Awesome Free" height="16px" align="top">](https://github.com/FortAwesome/Font-Awesome), CC BY 4.0 License - but LinkedIn SVG edited by me to recolour it #0073b1. Codewars icon adapted from [profile badge SVG](https://www.codewars.com/users/dafuloth/badges)*
-
-
+*GitHub, LinkedIn, and Medium icons from [<img src="./icons/font-awesome-logo-full.svg" alt="Font Awesome Free" height="16px" align="top">](https://github.com/FortAwesome/Font-Awesome), CC BY 4.0 License - but LinkedIn SVG edited by me to recolour it #0073b1. Codewars icon adapted from [profile badge SVG](https://www.codewars.com/users/dafuloth/badges)*
+</details>
