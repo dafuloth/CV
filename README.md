@@ -8,12 +8,13 @@
 
 </div>
 
+It's always been my dream to become a developer: I love problem solving, I love computers and technology, and so it's a _good fit_. Illness forced me to withdraw from my Computer Science degree before I could complete my final year but please check out the [Education](https://github.com/dafuloth/CV/blob/master/README.md#education) section and let me show you my interest in the media - and why a company like [_Global_](https://www.global.com/) is a _good fit_ for me.
+
 ## Interesting Projects
 * TDD, emphasising BDD. Testing frameworks: `RSpec`, `Jasmine`, `pytest`
 * Attention to code quality: e.g. `rubocop`, `eslint`, `pylint`
 * Integrating with services to track test coverage and code quality: e.g. `Coveralls`, `CodeClimate` 
 * CI/CD with `Travis CI` and `Heroku`
-
 
 <table>
   <tr>
