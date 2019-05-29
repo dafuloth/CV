@@ -96,7 +96,7 @@
       <img src="./icons/TravisCI.png" height="24px"  alt="Travis CI">
     </td>
     <td>
-      Getting reacquinted with Python via the bank tech test
+      Getting reacquainted with Python via the bank tech test
     </td>
   </tr>
 </table>
@@ -136,7 +136,7 @@ I am passionate about solving real problems and building useful things, using co
 
 My journey started in primary school with a little pixellated turtle. Moving it around the screen with commands in Logo might not have looked like much but it was the spark that opened my mind to the possibilities of programming, and I've been hooked ever since. From there: QuickBASIC (from the Windows 95 CD-ROM!), Visual Basic, C/C++, C#, Java and now more recently, Ruby and JavaScript. The language may change but the problem-solving thought process is universal.
 
-In a time when 28.8k dial-up internet was common and 56k was bleeding edge, when the web was rather more read-only (compared to what it is now), my interest was in making desktop applications that ran locally - and I dreamed of being a games developer. Techology, and my perspective, has evolved a lot since then and my mind is open to the possibilties that now exist: the web is _the_ platform and I want to build web applications - and not necessarily games!
+In a time when 28.8k dial-up internet was common and 56k was bleeding edge, when the web was rather more read-only (compared to what it is now), my interest was in making desktop applications that ran locally - and I dreamed of being a games developer. technology, and my perspective, has evolved a lot since then and my mind is open to the possibilities that now exist: the web is _the_ platform and I want to build web applications - and not necessarily games!
 
 So now I'm looking for my first developer job: if you're a prospective employer looking at this then I would love to discuss with *you* what kind of real problems you want to solve, and what sort of useful things we can build!
 
@@ -157,7 +157,7 @@ At the first Editors meeting, I enquired why we didn't appear to have a website.
 #### I like to write things
 
 At university I did a lot of work with the student newspaper (called _Spark_ or currently, _The Spark_). I started off sending in my submissions but towards the end of my time there, I applied for the soon-to-be vacant position of Science & Technology editor and got the job. In the end there was another great applicant so we shared the job and edited alternate issues.
-- I introduced an Editorial column, replacing a column that summmarised a few selected news articles, because I thought it was important that we have a dialogue with our readers. And I would still get to write.
+- I introduced an Editorial column, replacing a column that summarised a few selected news articles, because I thought it was important that we have a dialogue with our readers. And I would still get to write.
 - [Here](https://issuu.com/sparkweb/docs/spark_62-3/34) is the final issue we worked on, where we reflected and wrote our farewells. During that time we handled onboarding of the new editor, remaining available to support and mentor.
 - Current and earlier issues are available on [Issuu](https://issuu.com/sparkweb)
 
