@@ -8,7 +8,7 @@
 
 </div>
 
-It's always been my dream to become a developer: I love problem solving, I love computers and technology, and so it's a _good fit_. Illness forced me to withdraw from my Computer Science degree before I could complete my final year but please check out the [Education](https://github.com/dafuloth/CV/blob/master/README.md#education) section and let me show you my interest in the media - and why a company like [_Global_](https://www.global.com/) is a _good fit_ for me.
+It's always been my dream to become a developer: I love problem solving, I love computers and technology, and so it's a good fit. Illness forced me to withdraw from my Computer Science degree before I could complete my final year but my determination spurs me on! As a Makers graduate, I'm getting my life back on track and I aim to make my dream a reality.
 
 ## Interesting Projects
 * TDD, emphasising BDD. Testing frameworks: `RSpec`, `Jasmine`, `pytest`
@@ -123,17 +123,17 @@ _Jump to:_ [Education](https://github.com/dafuloth/CV/blob/master/README.md#educ
 #### DipHE Applied Computer Science
 _Withdrew due to illness before I could complete the degree but check out what I got up to in student media:_
   * Wrote and presented **News @ [Junction11](https://www.junction11radio.co.uk)** (student radio station)
-  * **Science & Technology Editor** and **Web Editor** at [Spark*](https://sparknewspaper.co.uk/), the student newspaper
-  * Worked with members of RU:ON TV (student TV station) to developed story and star in the short film “[This Dead Planet](https://vimeo.com/40466856)”, an entry for the 2012 [Sci-Fi London 48 Hour Film Competition](https://48hour.sci-fi-london.com/)
+  * **Science & Technology Editor** and **Web Editor** at **[Spark*](https://sparknewspaper.co.uk/)**, (student newspaper)
+  * Worked with members of **RU:ON TV** (student TV station) to develop story and star in the short film _[This Dead Planet](https://vimeo.com/40466856)_, an entry for the 2012 [Sci-Fi London 48 Hour Film Competition](https://48hour.sci-fi-london.com/)
 
-_...and also the Microsoft Imagine Cup - it's like a worldwide code jam for students:_
+_...and also the **Microsoft Imagine Cup** - it's like a worldwide code jam for students:_
 - [Microsoft Imagine Cup](https://en.wikipedia.org/wiki/Imagine_Cup) 2007 Software Design UK Finals - Theme: _Better Education_- Team Leader
 - [Microsoft Imagine Cup](https://en.wikipedia.org/wiki/Imagine_Cup) 2006 Software Design UK Finals - Theme: _Healthier Lives_- Team Member
 
 
 ## More about me
 
-I am passionate about solving real problems and building useful things, using code. Life, health, and circumstances might have had other ideas but software engineering has been a lifelong ambition that I am now making a reality, thanks to the Makers Fellowship program.
+I am passionate about solving real problems and building useful things, using code. Life, health, and circumstances might have had other ideas but software engineering has been a lifelong ambition that I am now making a reality, thanks to the Makers Fellowship programme.
 
 My journey started in primary school with a little pixellated turtle. Moving it around the screen with commands in Logo might not have looked like much but it was the spark that opened my mind to the possibilities of programming, and I've been hooked ever since. From there: QuickBASIC (from the Windows 95 CD-ROM!), Visual Basic, C/C++, C#, Java and now more recently, Ruby and JavaScript. The language may change but the problem-solving thought process is universal.
 
