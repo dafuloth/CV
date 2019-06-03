@@ -143,8 +143,6 @@ My journey started in primary school with a little pixellated turtle. Moving it 
 
 In a time when 28.8k dial-up internet was common and 56k was bleeding edge, when the web was rather more read-only (compared to what it is now), my interest was in making desktop applications that ran locally - and I dreamed of being a games developer. technology, and my perspective, has evolved a lot since then and my mind is open to the possibilities that now exist: the web is _the_ platform and I want to build web applications - and not necessarily games!
 
-So now I'm looking for my first developer job: if you're a prospective employer looking at this then I would love to discuss with *you* what kind of real problems you want to solve, and what sort of useful things we can build!
-
 
 ## Skills
 
