@@ -148,23 +148,23 @@ So now I'm looking for my first developer job: if you're a prospective employer 
 
 ## Skills
 
-#### I am proactive
+#### I am a _proactive_ problem solver
 
-At the first Editors meeting, I enquired why we didn't appear to have a website. Turns out it had gone down some time ago but no one knew why. Furthermore, I was alarmed that one seemed to think it was that important. I think any kind of publication really ought to have website so on my own initiative I offered to investigate and bring it back online.
+At university I did a lot of work with the student newspaper (called _Spark_ or currently, _The Spark_). At my first Editors meeting as the new Science & Technology Editor, I enquired why we didn't appear to have a website. Turns out it had gone down some time ago but no one knew why. Furthermore, I was alarmed that one seemed to think it was that important. I think any kind of publication really ought to have website so on my own initiative I offered to investigate and bring it back online.
 
 - It was a WordPress based site. Someone had modified core code and then the site broke when a WordPress update was applied on top
 - I should point out that I was not any kind of WordPress expert so this was pure troubleshooting and problem-solving- Fortunately, the database was intact so I was able to create a backup, install WordPress from scratch and then restore all the old posts
 - In getting the website back up, I became the new *Web Editor* alongside my existing role. I was responsible for routine maintenance and provided the team with ongoing support so that they could use the website
 - Producing that proof-of-concept demonstrated the importance and viability of having a website
-- [The website](http://sparknewspaper.co.uk/) lives! They took my MVP, ran with it and now it's looking better than it ever did :grin:
+- [The website](http://sparknewspaper.co.uk/) lives! They took my MVP, ran with it and now it's never looked better
 
 
-#### I like to write things
+#### I write
 
-At university I did a lot of work with the student newspaper (called _Spark_ or currently, _The Spark_). I started off sending in my submissions but towards the end of my time there, I applied for the soon-to-be vacant position of Science & Technology editor and got the job. In the end there was another great applicant so we shared the job and edited alternate issues.
-- I introduced an Editorial column, replacing a column that summarised a few selected news articles, because I thought it was important that we have a dialogue with our readers. And I would still get to write.
-- [Here](https://issuu.com/sparkweb/docs/spark_62-3/34) is the final issue we worked on, where we reflected and wrote our farewells. During that time we handled onboarding of the new editor, remaining available to support and mentor.
-- Current and earlier issues are available on [Issuu](https://issuu.com/sparkweb)
+Whether it was my work on the University of Reading student newspaper, [The Spark](https://issuu.com/sparkweb/docs) or my [blogging](https://blog.makersacademy.com/tagged/makers-survival-guide) while at Makers, I have always been keen on communicating in writing to share knowledge and ideas with others.
+
+
+
 
 ## Experience
 
