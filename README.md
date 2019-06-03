@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[<img src="./icons/github-square.svg" alt="GitHub" height="24" align="top">&nbsp;GitHub](https://github.com/dafuloth)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/linkedin.svg" alt="LinkedIn" height="24" align="top">&nbsp;LinkedIn](https://www.linkedin.com/in/dafuloth/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/codewars-icon.svg" alt="Codewars" height="24" align="top">&nbsp;Codewars](https://www.linkedin.com/in/dafuloth/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/medium.svg" alt="Medium" height="24" align="top">&nbsp;Medium](https://medium.com/@dafuloth)
+[<img src="./icons/github-square.svg" title="GitHub" height="24" align="top">&nbsp;GitHub](https://github.com/dafuloth)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/linkedin.svg" title="LinkedIn" height="24" align="top">&nbsp;LinkedIn](https://www.linkedin.com/in/dafuloth/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/codewars-icon.svg" title="Codewars" height="24" align="top">&nbsp;Codewars](https://www.linkedin.com/in/dafuloth/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/medium.svg" title="Medium" height="24" align="top">&nbsp;Medium](https://medium.com/@dafuloth)
 
 </div>
 
@@ -23,13 +23,13 @@ It's always been my dream to become a developer: I love problem solving, I love 
 
   <tr>
     <td><a href="https://github.com/dafuloth/rps-challenge"><strong>Rock,&nbsp;Paper,&nbsp;Scissors</strong></a><br>
-      <img src="./icons/ruby.jpg" height="24px" width="24px" alt="Ruby">
-      <img src="./icons/sinatra.png" height="24px" alt="Sinatra">
-      <img src="./icons/rspec.png" height="24px" width="24px" alt="RSpec">
-      <img src="./icons/heroku-logotype-vertical-purple.svg" height="24px" width="24px" alt="Heroku"><br>
-      <img src="./icons/html5.svg" height="24px" width="24px" alt="HTML5">
-      <img src="./icons/css3-alt.svg" height="24px" width="24px" alt="CSS3">
-      <img src="./icons/TravisCI.png" height="24px"  alt="Travis CI">
+      <img src="./icons/ruby.jpg" height="24px" width="24px" alt="Ruby" title="Ruby">
+      <img src="./icons/sinatra.png" height="24px" alt="Sinatra" title="Sinatra">
+      <img src="./icons/rspec.png" height="24px" width="24px" alt="RSpec" title="RSpec">
+      <img src="./icons/heroku-logotype-vertical-purple.svg" height="24px" width="24px" alt="Heroku" title="Heroku"><br>
+      <img src="./icons/html5.svg" height="24px" width="24px" alt="HTML5" title="HTML5">
+      <img src="./icons/css3-alt.svg" height="24px" width="24px" alt="CSS3" title="CSS3">
+      <img src="./icons/TravisCI.png" height="24px"  alt="Travis CI" title="Travis CI">
     </td>
     <td>
       <ul>
@@ -44,10 +44,10 @@ It's always been my dream to become a developer: I love problem solving, I love 
   <tr>
     <td>
       <a href="https://github.com/dafuloth/bowling-challenge"><strong>Bowling</strong></a><br>
-      <img src="./icons/JavaScript.svg" height="24px" width="24px" alt="JavaScript">
-      <img src="./icons/jasmine.svg" height="24px" width="24px" alt="Jasmine">
-      <img src="./icons/Chrome.svg" height="24px" width="24px" alt="Chrome">
-      <img src="./icons/TravisCI.png" height="24px"  alt="Travis CI">
+      <img src="./icons/JavaScript.svg" height="24px" width="24px" alt="JavaScript" title="JavaScript">
+      <img src="./icons/jasmine.svg" height="24px" width="24px" alt="Jasmine" title="Jasmine">
+      <img src="./icons/Chrome.svg" height="24px" width="24px" alt="Chrome" title="Chrome">
+      <img src="./icons/TravisCI.png" height="24px"  alt="Travis CI" title="Travis CI">
     </td>
     <td>
       <ul>
@@ -60,8 +60,8 @@ It's always been my dream to become a developer: I love problem solving, I love 
 
   <tr>
     <td><a href = "https://github.com/dafuloth/NotesApp"><strong>NotesApp</strong></a><br>
-      <img src="./icons/JavaScript.svg" height="24px" width="24px" alt="JavaScript">
-      <img src="./icons/Chrome.svg" height="24px" width="24px" alt="Chrome">
+      <img src="./icons/JavaScript.svg" height="24px" width="24px" alt="JavaScript" title="JavaScript">
+      <img src="./icons/Chrome.svg" height="24px" width="24px" alt="Chrome" title="Chrome">
     </td>
     <td>
       A frontend, single page app using only pure <code>JavaScript</code>:
@@ -75,13 +75,13 @@ It's always been my dream to become a developer: I love problem solving, I love 
   <tr>
     <td>
       <a href="https://github.com/dafuloth/instagram-challenge"><strong>Instagram Clone</strong></a><br>
-      <img src="./icons/Ruby_On_Rails_Logo.svg" height="24px"  alt="Ruby on Rails">
-      <img src="./icons/ruby.jpg" height="24px" width="24px" alt="Ruby">
-      <img src="./icons/rspec.png" height="24px" width="24px" alt="RSpec">
-      <img src="./icons/materialize.svg" height="24px" alt="Materialize">
-      <img src="./icons/PostgreSQL.svg" height="24px" alt="PostgreSQL">
-      <img src="./icons/heroku-logotype-vertical-purple.svg" height="24px" width="24px" alt="Heroku"><br>
-      <img src="./icons/TravisCI.png" height="24px"  alt="Travis CI">
+      <img src="./icons/Ruby_On_Rails_Logo.svg" height="24px" alt="Ruby on Rails" title="Ruby on Rails">
+      <img src="./icons/ruby.jpg" height="24px" width="24px" alt="Ruby" title="Ruby">
+      <img src="./icons/rspec.png" height="24px" width="24px" alt="RSpec" title="RSpec">
+      <img src="./icons/materialize.svg" height="24px" alt="Materialize" title="Materialize">
+      <img src="./icons/PostgreSQL.svg" height="24px" alt="PostgreSQL" title="PostgreSQL">
+      <img src="./icons/heroku-logotype-vertical-purple.svg" height="24px" width="24px" alt="Heroku" title="Heroku"><br>
+      <img src="./icons/TravisCI.png" height="24px" alt="Travis CI" title="Travis CI">
     </td>
     <td>
       A sandbox for learning, spiking <code>Materialize</code> and <code>Rails</code> (with <code>PostgreSQL</code>) experiments:
@@ -96,9 +96,9 @@ It's always been my dream to become a developer: I love problem solving, I love 
   <tr>
     <td>
       <a href="https://github.com/dafuloth/python_bank"><strong>Bank (Python)</strong></a><br>
-      <img src="./icons/Python-logo-notext.svg" height="24px" width="24px" alt="Python">
-      <img src="./icons/pytest1.png" height="24px" width="30px" alt="pytest">
-      <img src="./icons/TravisCI.png" height="24px"  alt="Travis CI">
+      <img src="./icons/Python-logo-notext.svg" height="24px" width="24px" alt="Python" title="Python">
+      <img src="./icons/pytest1.png" height="24px" width="30px" alt="pytest" title="pytest">
+      <img src="./icons/TravisCI.png" height="24px"  alt="Travis CI" title="Travis CI">
     </td>
     <td>
       Getting reacquainted with Python via the bank tech test
@@ -189,5 +189,5 @@ QA Engineer - Industrial Placement
 <details>
 <summary><em>Acknowledgements:</em></summary>
 
-*GitHub, LinkedIn, and Medium icons from [<img src="./icons/font-awesome-logo-full.svg" alt="Font Awesome Free" height="16px" align="top">](https://github.com/FortAwesome/Font-Awesome), CC BY 4.0 License - but LinkedIn SVG edited by me to recolour it #0073b1. Codewars icon adapted from [profile badge SVG](https://www.codewars.com/users/dafuloth/badges)*
+*GitHub, LinkedIn, and Medium icons from [<img src="./icons/font-awesome-logo-full.svg" title="Font Awesome Free" height="16px" align="top">](https://github.com/FortAwesome/Font-Awesome), CC BY 4.0 License - but LinkedIn SVG edited by me to recolour it #0073b1. Codewars icon adapted from [profile badge SVG](https://www.codewars.com/users/dafuloth/badges)*
 </details>
