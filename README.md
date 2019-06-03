@@ -24,14 +24,16 @@ It's always been my dream to become a developer: I love problem solving, I love 
   <tr>
     <td><a href="https://github.com/dafuloth/rps-challenge"><strong>Rock,&nbsp;Paper,&nbsp;Scissors</strong></a><br>
       <img src="./icons/ruby.jpg" height="24px" width="24px" alt="Ruby">
+      <img src="./icons/sinatra.png" height="24px" alt="Sinatra">
       <img src="./icons/rspec.png" height="24px" width="24px" alt="RSpec">
+      <img src="./icons/heroku-logotype-vertical-purple.svg" height="24px" width="24px" alt="Heroku"><br>
       <img src="./icons/html5.svg" height="24px" width="24px" alt="HTML5">
-      <img src="./icons/css3-alt.svg" height="24px" width="24px" alt="CSS3"><br>
+      <img src="./icons/css3-alt.svg" height="24px" width="24px" alt="CSS3">
       <img src="./icons/TravisCI.png" height="24px"  alt="Travis CI">
-      <img src="./icons/heroku-logotype-vertical-purple.svg" height="24px" width="24px" alt="Heroku">
     </td>
     <td>
       <ul>
+        <li><code>Ruby</code> web-app using the <code>Sinatra</code> framework, and <code>ERB</code> templating</li>
         <li><code>Capybara</code> for front-end feature tests</li>
         <li>Had some fun with <code>HTML5</code> and <code>CSS3</code></li>
         <li>Experimented with <code>Heroku</code>, deploying my app: <strong><a href="https://quiet-wildwood-32600.herokuapp.com/">[demo]</a></strong></li>
@@ -49,7 +51,8 @@ It's always been my dream to become a developer: I love problem solving, I love 
     </td>
     <td>
       <ul>
-        <li>Introduced to <code>JavaScript</code> in Week 5, apply it to a Bowling Scorecard</li>
+        <li>Introduced to <code>JavaScript</code> in Week 5...</li>
+        <li>Apply it to building a Bowling Scorecard console application</li>
         <li>Development and debugging using <code>Chrome DevTools</code></li>
       </ul>
     </td>
@@ -61,9 +64,9 @@ It's always been my dream to become a developer: I love problem solving, I love 
       <img src="./icons/Chrome.svg" height="24px" width="24px" alt="Chrome">
     </td>
     <td>
-      A frontend, single page app using only pure JavaScript:
+      A frontend, single page app using only pure <code>JavaScript</code>:
       <ul>
-        <li>Pure JavaScript means no frameworks, so no Jasmine!</li>
+        <li>Pure <code>JavaScript</code> means no frameworks, so no Jasmine!</li>
         <li>So I <a href = "https://github.com/dafuloth/NotesApp/blob/master/spec/assert.js">write my own</a>, understanding that a testing framework's most basic ability is being able to check if an expression evaluates as true.</li>
       </ul>
     </td>
