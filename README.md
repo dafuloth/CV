@@ -43,6 +43,27 @@ It's always been my dream to become a developer: I love problem solving, I love 
 
   <tr>
     <td>
+      <a href="https://github.com/dafuloth/instagram-challenge"><strong>Instagram Clone</strong></a><br>
+      <img src="./icons/Ruby_On_Rails_Logo.svg" height="24px" alt="Ruby on Rails" title="Ruby on Rails">
+      <img src="./icons/ruby.jpg" height="24px" width="24px" alt="Ruby" title="Ruby">
+      <img src="./icons/rspec.png" height="24px" width="24px" alt="RSpec" title="RSpec">
+      <img src="./icons/materialize.svg" height="24px" alt="Materialize" title="Materialize">
+      <img src="./icons/PostgreSQL.svg" height="24px" alt="PostgreSQL" title="PostgreSQL">
+      <img src="./icons/heroku-logotype-vertical-purple.svg" height="24px" width="24px" alt="Heroku" title="Heroku"><br>
+      <img src="./icons/TravisCI.png" height="24px" alt="Travis CI" title="Travis CI">
+    </td>
+    <td>
+      A sandbox for learning, spiking <code>Materialize</code> and <code>Rails</code> (with <code>PostgreSQL</code>) experiments:
+      <ul>
+        <li>Implementation of a <strong>CI/CD</strong> pipeline.</li>
+        <li><code>Travis CI</code> facilitates Continuous Testing</li>
+        <li>Automatically deploys to <code>Heroku</code> when tests pass: <strong><a href = "https://dt-instaclonegram.herokuapp.com/">[demo]</a></strong></li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
       <a href="https://github.com/dafuloth/bowling-challenge"><strong>Bowling</strong></a><br>
       <img src="./icons/JavaScript.svg" height="24px" width="24px" alt="JavaScript" title="JavaScript">
       <img src="./icons/jasmine.svg" height="24px" width="24px" alt="Jasmine" title="Jasmine">
@@ -72,26 +93,6 @@ It's always been my dream to become a developer: I love problem solving, I love 
     </td>
   </tr>
 
-  <tr>
-    <td>
-      <a href="https://github.com/dafuloth/instagram-challenge"><strong>Instagram Clone</strong></a><br>
-      <img src="./icons/Ruby_On_Rails_Logo.svg" height="24px" alt="Ruby on Rails" title="Ruby on Rails">
-      <img src="./icons/ruby.jpg" height="24px" width="24px" alt="Ruby" title="Ruby">
-      <img src="./icons/rspec.png" height="24px" width="24px" alt="RSpec" title="RSpec">
-      <img src="./icons/materialize.svg" height="24px" alt="Materialize" title="Materialize">
-      <img src="./icons/PostgreSQL.svg" height="24px" alt="PostgreSQL" title="PostgreSQL">
-      <img src="./icons/heroku-logotype-vertical-purple.svg" height="24px" width="24px" alt="Heroku" title="Heroku"><br>
-      <img src="./icons/TravisCI.png" height="24px" alt="Travis CI" title="Travis CI">
-    </td>
-    <td>
-      A sandbox for learning, spiking <code>Materialize</code> and <code>Rails</code> (with <code>PostgreSQL</code>) experiments:
-      <ul>
-        <li>Implementation of a CI/CD pipeline.</li>
-        <li><code>Travis CI</code> facilitates Continuous Testing</li>
-        <li>Automatically deploys to <code>Heroku</code> when tests pass: <strong><a href = "https://dt-instaclonegram.herokuapp.com/">[demo]</a></strong></li>
-      </ul>
-    </td>
-  </tr>
 
   <tr>
     <td>
