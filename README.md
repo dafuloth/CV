@@ -34,7 +34,7 @@ It's always been my dream to become a developer: I love problem solving, I love 
       <ul>
         <li><code>Capybara</code> for front-end feature tests</li>
         <li>Had some fun with <code>HTML5</code> and <code>CSS3</code></li>
-        <li>Experimented with <code>Heroku</code>, deploying my app <a href="https://quiet-wildwood-32600.herokuapp.com/">there</a></li>
+        <li>Experimented with <code>Heroku</code>, deploying my app: <strong><a href="https://quiet-wildwood-32600.herokuapp.com/">[demo]</a></strong></li>
       </ul>
     </td>
   </tr>
@@ -84,7 +84,7 @@ It's always been my dream to become a developer: I love problem solving, I love 
       <ul>
         <li>Implementation of a CI/CD pipeline.</li>
         <li><code>Travis CI</code> facilitates Continuous Testing</li>
-        <li>Automatically deploys to <code>Heroku</code> when tests pass</li>
+        <li>Automatically deploys to <code>Heroku</code> when tests pass: <strong><a href = "https://dt-instaclonegram.herokuapp.com/">[demo]</a></strong></li>
       </ul>
     </td>
   </tr>
