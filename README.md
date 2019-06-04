@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[<img src="./icons/github-square.svg" title="GitHub" height="24" align="top">&nbsp;GitHub](https://github.com/dafuloth)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/linkedin.svg" title="LinkedIn" height="24" align="top">&nbsp;LinkedIn](https://www.linkedin.com/in/dafuloth/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/codewars-icon.svg" title="Codewars" height="24" align="top">&nbsp;Codewars](https://www.linkedin.com/in/dafuloth/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/medium.svg" title="Medium" height="24" align="top">&nbsp;Medium](https://medium.com/@dafuloth)
+[<img src="./icons/github-square.svg" title="GitHub" height="24" align="top">&nbsp;GitHub](https://github.com/dafuloth)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/linkedin.svg" title="LinkedIn" height="24" align="top">&nbsp;LinkedIn](https://www.linkedin.com/in/dafuloth/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/codewars-icon.svg" title="Codewars" height="24" align="top">&nbsp;Codewars](https://www.codewars.com/users/dafuloth/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/medium.svg" title="Medium" height="24" align="top">&nbsp;Medium](https://medium.com/@dafuloth)
 
 </div>
 
@@ -87,7 +87,7 @@ It's always been my dream to become a developer: I love problem solving, I love 
     <td>
       A frontend, single page app using only pure <code>JavaScript</code>:
       <ul>
-        <li>Pure <code>JavaScript</code> means no frameworks, so no Jasmine!</li>
+        <li>Pure <code>JavaScript</code> means no frameworks, so no <code>Jasmine</code>!</li>
         <li>So I <a href = "https://github.com/dafuloth/NotesApp/blob/master/spec/assert.js">write my own</a>, understanding that a testing framework's most basic ability is being able to check if an expression evaluates as true.</li>
       </ul>
     </td>
