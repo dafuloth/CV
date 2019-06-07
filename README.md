@@ -11,11 +11,6 @@
 It's always been my dream to become a developer: I love problem solving, I love computers and technology, and so it's a good fit. Illness forced me to withdraw from my Computer Science degree before I could complete my final year but my determination spurs me on! As a Makers graduate, I'm getting my life back on track and I aim to make my dream a reality.
 
 ## Interesting Projects
-* TDD, emphasising BDD. Testing frameworks: `RSpec`, `Jasmine`, `pytest`
-* Attention to code quality: e.g. `rubocop`, `eslint`, `pylint`
-* Integrating with services to track test coverage and code quality: e.g. `Coveralls`, `CodeClimate` 
-* CI/CD with `Travis CI` and `Heroku`
-
 <table>
   <tr>
     <td colspan="2" align="left"><em>A journey of learning at Makers:</em></td>
@@ -107,6 +102,13 @@ It's always been my dream to become a developer: I love problem solving, I love 
   </tr>
 </table>
 
+As part of my process I endeavour to apply the following:
+* TDD, emphasising BDD. Testing frameworks: `RSpec`, `Jasmine`, `pytest`
+* Attention to code quality: e.g. `rubocop`, `eslint`, `pylint`
+* Integrating with services to track test coverage and code quality: e.g. `Coveralls`, `CodeClimate` 
+* CI/CD with `Travis CI` and `Heroku`
+
+---
 
 _Jump to:_ [Education](https://github.com/dafuloth/CV/blob/master/README.md#education) | [More about me](https://github.com/dafuloth/CV/blob/master/README.md#more-about-me) |  [Skills](https://github.com/dafuloth/CV/blob/master/README.md#skills) |  [Experience](https://github.com/dafuloth/CV/blob/master/README.md#experience) | [Interests](https://github.com/dafuloth/CV/blob/master/README.md#other-interests)
 
@@ -125,8 +127,17 @@ _Jump to:_ [Education](https://github.com/dafuloth/CV/blob/master/README.md#educ
 
 ### University of Reading
 
-#### DipHE Applied Computer Science
-_Withdrew due to illness before I could complete the degree but check out what I got up to in student media:_
+#### DipHE Applied Computer Science (2006 - deferred)
+
+I took my first formal **programming** courses, in *C & C++*. Relatively less friendly, but learning the language and fundamental programming concepts made every other language I would later encounter more accessible, e.g. Java, C#.
+
+The **algorithms** module introduced me to algorithmic complexity and *Python*.
+
+In **computer architecture**, **operating systems**, and **compilers**, I gained insight into the relationship between hardware and software, and how computers work under the hood.
+
+
+
+_Withdrew before I could complete the degree but check out what I got up to in student media:_
   * Wrote and presented **News @ [Junction11](https://www.junction11radio.co.uk)** (student radio station)
   * **Science & Technology Editor** and **Web Editor** at **[Spark*](https://sparknewspaper.co.uk/)**, (student newspaper)
   * Worked with members of **RU:ON TV** (student TV station) to develop story and star in the short film _[This Dead Planet](https://vimeo.com/40466856)_, an entry for the 2012 [Sci-Fi London 48 Hour Film Competition](https://48hour.sci-fi-london.com/)
@@ -134,6 +145,10 @@ _Withdrew due to illness before I could complete the degree but check out what I
 _...and also the **Microsoft Imagine Cup** - it's like a worldwide code jam for students:_
 - [Microsoft Imagine Cup](https://en.wikipedia.org/wiki/Imagine_Cup) 2007 Software Design UK Finals - Theme: _Better Education_- Team Leader
 - [Microsoft Imagine Cup](https://en.wikipedia.org/wiki/Imagine_Cup) 2006 Software Design UK Finals - Theme: _Healthier Lives_- Team Member
+
+#### Science Foundation Year (2005 - 2006)
+
+Physics (77%); Mathematics (75.5%); Electrical Science (67%)
 
 
 ## More about me
@@ -170,7 +185,7 @@ Whether it was my work on the University of Reading student newspaper, [The Spar
 **IKEA Wembley** (2014 to 2018)  
 Customer Service Co-worker
 
-_During this gap: Recovering from illness, explored Open University study_
+_During this gap, while staying at home I explored Open University study_
 
 **Oracle Corporation UK Ltd.** (2008)  
 QA Engineer - Industrial Placement
@@ -178,10 +193,14 @@ QA Engineer - Industrial Placement
 ## Other Interests
 
 - Writing: Making full use of Markdown for nice GitHub READMEs, and a [Makers Survival Guide](https://blog.makersacademy.com/tagged/makers-survival-guide)
+- Meetups and side-projects, e.g.:
+  - 29-09-2019 : Kick Start (Google coding competition)
+  - 14-05-2019 : Autonomous car machine learning workshop at Futurice Ltd
+  - 17-08-2018 : Cyber Security Challenge UK: NCA 2018 Face-to-Face Competition
+  - 2006, 2007 : Microsoft Imagine Cup (i.e. code jams)
   
 - Games: board-, card-, and video-
 - (Returning-)Roleplayer and lapsed LARPer.
-- Sci-fi and horror
 - Formerly: karaoke - a bit out of practice now
 
 ***
