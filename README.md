@@ -57,7 +57,7 @@ It's always been my dream to become a developer: I love problem solving, I love 
       <ul>
         <li>Implementation of a <strong>CI/CD</strong> pipeline.</li>
         <li><code>Travis CI</code> facilitates Continuous Testing</li>
-        <li>Automatically deploys to <code>Heroku</code> when tests pass: <strong><a href = "https://dt-instaclonegram.herokuapp.com/">[demo]</a></strong></li>
+        <li>Automatically deploys to <code>Heroku</code> when tests pass: <strong><a href = "https://dt-instaclonegram.herokuapp.com/" title="WARNING: Storage backend - e.g. Amazon S3 - is not currently implemented. Heroku filesystem is ephemeral, so any file uploads will very quickly be lost with dyno cycling.">[demo]</a></strong></li>
       </ul>
     </td>
   </tr>
