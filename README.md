@@ -162,16 +162,17 @@ In a time when 28.8k dial-up internet was common and 56k was bleeding edge, when
 
 ## Skills
 
+The value of my side-projects and extra-curricular activities is that they have been such a good way to hone my skills:
+
+#### I can *persuade* and bring others on board
+
+The website of the student newspaper had gone down a while ago, and had remained so. No one knew what to do about it and they were concerned about the time/money/skills that would be needed to fix it.
+
+I suggested that it was important for a newspaper to have a functioning website and I persuaded the team to support the website project by laying out a plan for going forward: I could start by doing some troubleshooting on my own to diagnose the problem so that we would know if it would actually cost anything at all.
+
 #### I am a _proactive_ problem solver
 
-At university I did a lot of work with the student newspaper (called _Spark_ or currently, _The Spark_). At my first Editors meeting as the new Science & Technology Editor, I enquired why we didn't appear to have a website. Turns out it had gone down some time ago but no one knew why. Furthermore, I was alarmed that one seemed to think it was that important. I think any kind of publication really ought to have website so on my own initiative I offered to investigate and bring it back online.
-
-- It was a WordPress based site. Someone had modified core code and then the site broke when a WordPress update was applied on top
-- I should point out that I was not any kind of WordPress expert so this was pure troubleshooting and problem-solving- Fortunately, the database was intact so I was able to create a backup, install WordPress from scratch and then restore all the old posts
-- In getting the website back up, I became the new *Web Editor* alongside my existing role. I was responsible for routine maintenance and provided the team with ongoing support so that they could use the website
-- Producing that proof-of-concept demonstrated the importance and viability of having a website
-- [The website](http://sparknewspaper.co.uk/) lives! They took my MVP, ran with it and now it's never looked better
-
+I determined the problem, and demonstrating *initiative* I took ownership of the issue and got the site back up and running.
 
 #### I write
 
