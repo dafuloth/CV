@@ -27,11 +27,12 @@ It's always been my dream to become a developer: I love problem solving, I love 
       <img src="./icons/TravisCI.png" height="24px"  alt="Travis CI" title="Travis CI">
     </td>
     <td>
+    A game of Rock, Paper, Scissors:
       <ul>
-        <li><code>Ruby</code> web-app using the <code>Sinatra</code> framework, and <code>ERB</code> templating</li>
-        <li><code>Capybara</code> for front-end feature tests</li>
-        <li>Had some fun with <code>HTML5</code> and <code>CSS3</code></li>
-        <li>Experimented with <code>Heroku</code>, deploying my app: <strong><a href="https://quiet-wildwood-32600.herokuapp.com/">[demo]</a></strong></li>
+        <li><strong>Ruby</strong> web-app using the <strong>Sinatra</strong> framework, and <strong>ERB</strong> templating</li>
+        <li><strong>Capybara</strong> for front-end feature tests</li>
+        <li>Had some fun with <strong>HTML5</strong> and <strong>CSS3</strong></li>
+        <li>Experimented with <strong>Heroku</strong>, deploying my app: <strong><a href="https://quiet-wildwood-32600.herokuapp.com/">[demo]</a></strong></li>
       </ul>
     </td>
   </tr>
@@ -48,11 +49,11 @@ It's always been my dream to become a developer: I love problem solving, I love 
       <img src="./icons/TravisCI.png" height="24px" alt="Travis CI" title="Travis CI">
     </td>
     <td>
-      A sandbox for learning, spiking <code>Materialize</code> and <code>Rails</code> (with <code>PostgreSQL</code>) experiments:
+      A learning sandbox: spiking <strong>Materialize</strong> and <strong>Rails</strong> (with <strong>PostgreSQL</strong>) and other experiments:
       <ul>
         <li>Implementation of a <strong>CI/CD</strong> pipeline.</li>
-        <li><code>Travis CI</code> facilitates Continuous Testing</li>
-        <li>Automatically deploys to <code>Heroku</code> when tests pass: <strong><a href = "https://dt-instaclonegram.herokuapp.com/" title="WARNING: Storage backend - e.g. Amazon S3 - is not currently implemented. Heroku filesystem is ephemeral, so any file uploads will very quickly be lost with dyno cycling.">[demo]</a></strong></li>
+        <li><strong>Travis CI</strong> facilitates Continuous Testing</li>
+        <li>Automatically deploys to <strong>Heroku</strong> when tests pass: <strong><a href = "https://dt-instaclonegram.herokuapp.com/" title="WARNING: Storage backend - e.g. Amazon S3 - is not currently implemented. Heroku filesystem is ephemeral, so any file uploads will very quickly be lost with dyno cycling.">[demo]</a></strong></li>
       </ul>
     </td>
   </tr>
@@ -66,10 +67,10 @@ It's always been my dream to become a developer: I love problem solving, I love 
       <img src="./icons/TravisCI.png" height="24px"  alt="Travis CI" title="Travis CI">
     </td>
     <td>
+    Bowling Scorecard console application
       <ul>
-        <li>Introduced to <code>JavaScript</code> in Week 5...</li>
-        <li>Apply it to building a Bowling Scorecard console application</li>
-        <li>Development and debugging using <code>Chrome DevTools</code></li>
+        <li>Introduced to <strong>JavaScript</strong> in Week 5</li>
+        <li>Development and debugging using <strong>Chrome DevTools</strong></li>
       </ul>
     </td>
   </tr>
@@ -80,9 +81,9 @@ It's always been my dream to become a developer: I love problem solving, I love 
       <img src="./icons/Chrome.svg" height="24px" width="24px" alt="Chrome" title="Chrome">
     </td>
     <td>
-      A frontend, single page app using only pure <code>JavaScript</code>:
+      A frontend, single page app using only pure <strong>JavaScript</strong>:
       <ul>
-        <li>Pure <code>JavaScript</code> means no frameworks, so no <code>Jasmine</code>!</li>
+        <li>Pure <strong>JavaScript</strong> means no frameworks, so no <strong>Jasmine</strong>!</li>
         <li>So I <a href = "https://github.com/dafuloth/NotesApp/blob/master/spec/assert.js">write my own</a>, understanding that a testing framework's most basic ability is being able to check if an expression evaluates as true.</li>
       </ul>
     </td>
@@ -129,9 +130,9 @@ _Jump to:_ [Education](https://github.com/dafuloth/CV/blob/master/README.md#educ
 
 #### DipHE Applied Computer Science (2006 - deferred)
 
-I took my first formal **programming** courses, in *C & C++*. Relatively less friendly, but learning the language and fundamental programming concepts made every other language I would later encounter more accessible, e.g. Java, C#.
+I took my first formal **programming** courses, in **C** & **C++**. Relatively less friendly, but learning the language and fundamental programming concepts made every other language I would later encounter more accessible, e.g. **Java**, **C#**.
 
-The **algorithms** module introduced me to algorithmic complexity and *Python*.
+The **algorithms** module introduced me to algorithmic complexity and **Python**.
 
 In **computer architecture**, **operating systems**, and **compilers**, I gained insight into the relationship between hardware and software, and how computers work under the hood.
 
@@ -164,7 +165,7 @@ In a time when 28.8k dial-up internet was common and 56k was bleeding edge, when
 
 The value of my side-projects and extra-curricular activities is that they have been such a good way to hone my skills:
 
-#### I can *persuade* and bring others on board
+#### I can justify my position and bring others with me
 
 The website of the student newspaper had gone down a while ago, and had remained so. No one knew what to do about it and they were concerned about the time/money/skills that would be needed to fix it.
 
