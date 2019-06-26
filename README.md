@@ -196,10 +196,11 @@ QA Engineer - Industrial Placement
 
 - Writing: Making full use of Markdown for nice GitHub READMEs, and a [Makers Survival Guide](https://blog.makersacademy.com/tagged/makers-survival-guide)
 - Meetups and side-projects, e.g.:
-  - 29-09-2019 : Kick Start (Google coding competition)
+  - 29-09-2019 : [Kick Start](https://codingcompetitions.withgoogle.com/kickstart/about) Round F 2019 (Google coding competition)
+  - 20-07-2019 - 21-07-2019 : [AngelHack 2019 : London](https://angelhack.com/angelhack-2019-london/) Hackathon
   - 14-05-2019 : Autonomous car machine learning workshop at Futurice Ltd
-  - 17-08-2018 : Cyber Security Challenge UK: NCA 2018 Face-to-Face Competition
-  - 2006, 2007 : Microsoft Imagine Cup (i.e. code jams)
+  - 17-08-2018 : [Cyber Security Challenge UK](https://www.cybersecuritychallenge.org.uk/competitions/face-to-face): NCA 2018 Face-to-Face Competition
+  - 2006, 2007 : [Microsoft Imagine Cup](https://imaginecup.microsoft.com/) (i.e. code jams)
   
 - Games: board-, card-, and video-
 - (Returning-)Roleplayer and lapsed LARPer.
