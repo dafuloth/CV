@@ -194,8 +194,6 @@ Recognising that software development is more than just coding, I chose this pla
 
 - Writing: Making full use of Markdown for nice GitHub READMEs, and a [Makers Survival Guide](https://blog.makersacademy.com/tagged/makers-survival-guide)
 - Meetups and side-projects, e.g.:
-  - 29-09-2019 : [Kick Start](https://codingcompetitions.withgoogle.com/kickstart/about) Round F 2019 (Google coding competition)
-  - 20-07-2019 - 21-07-2019 : [AngelHack 2019 : London](https://angelhack.com/angelhack-2019-london/) Hackathon
   - 14-05-2019 : Autonomous car machine learning workshop at Futurice Ltd
   - 17-08-2018 : [Cyber Security Challenge UK](https://www.cybersecuritychallenge.org.uk/competitions/face-to-face): NCA 2018 Face-to-Face Competition
   - 2006, 2007 : [Microsoft Imagine Cup](https://imaginecup.microsoft.com/) (i.e. code jams)
