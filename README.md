@@ -98,16 +98,10 @@ It's always been my dream to become a developer: I love problem solving, I love 
       <img src="./icons/TravisCI.png" height="24px"  alt="Travis CI" title="Travis CI">
     </td>
     <td>
-      Getting reacquainted with Python via the bank tech test
+      Getting reacquainted with <strong>Python</strong> via the bank tech test
     </td>
   </tr>
 </table>
-
-As part of my process I endeavour to apply the following:
-* TDD, emphasising BDD. Testing frameworks: `RSpec`, `Jasmine`, `pytest`
-* Attention to code quality: e.g. `rubocop`, `eslint`, `pylint`
-* Integrating with services to track test coverage and code quality: e.g. `Coveralls`, `CodeClimate` 
-* CI/CD with `Travis CI` and `Heroku`
 
 ---
 
@@ -118,13 +112,20 @@ _Jump to:_ [Education](https://github.com/dafuloth/CV/blob/master/README.md#educ
 
 ### Makers Academy (January 2019 - April 2019)
 
-- Curious and passionate about code.
-- Fast, independent learner
-- Great collaborator
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Python, HTML5, CSS3, JavaScript, Rails
-- RSpec, Jasmine, Cypress, pytest
+Learning how to apply industry-standard best practices to write *clean code* to *solve problems* 
+
+- **Fast, self-led learning:**
+  - Rails was new to me but in the space of two weeks I was able to both familiarise myself with the basics and employ it in our group project to build a Rails-based social networking site: **[[Heroku Demo](https://acebook-bcds.herokuapp.com/)]** **[[Acebook (GitHub repo)](https://github.com/dafuloth/acebook-bcds)]**
+- **Great collaborator:**
+  - In pairing and in group projects, I work well with others and can explain my thought process so that we make progress together
+- **Applying industry-standard practices:**
+  - <a title = "Programming paradigm">**OOP**</a>
+  - <a title = "Software Development Process">**TDD**</a> and <a title = "Software Development Process">**BDD**</a>, using testing frameworks: **RSpec**, **Jasmine**, **pytest**, **Cypress**
+  - <a title = "Design pattern">**MVC**</a>
+  - *Linting* and *code quality* with **rubocop**, **eslint**, **pylint**
+  - Integrating with services to track test coverage and code quality: e.g. **Coveralls**, **CodeClimate** 
+  - Implementing and using a **CI/CD** pipeline with **Travis CI** and **Heroku**
+  - Group projects employing **Agile** processes: *listing & prioritising* tasks, making **estimations**, deciding the **MVP**, pairing in 2-day **sprints**, observing agile ceremonies (morning **stand-ups**, end-of-day **retros**) 
 
 ### University of Reading
 
@@ -158,7 +159,7 @@ I am passionate about solving real problems and building useful things, using co
 
 My journey started in primary school with a little pixellated turtle. Moving it around the screen with commands in Logo might not have looked like much but it was the spark that opened my mind to the possibilities of programming, and I've been hooked ever since. From there: QuickBASIC (from the Windows 95 CD-ROM!), Visual Basic, C/C++, C#, Java and now more recently, Ruby and JavaScript. The language may change but the problem-solving thought process is universal.
 
-In a time when 28.8k dial-up internet was common and 56k was bleeding edge, when the web was rather more read-only (compared to what it is now), my interest was in making desktop applications that ran locally - and I dreamed of being a games developer. technology, and my perspective, has evolved a lot since then and my mind is open to the possibilities that now exist: the web is _the_ platform and I want to build web applications - and not necessarily games!
+In a time when 28.8k dial-up internet was common and 56k was bleeding edge, when the web was rather more read-only (compared to what it is now), my interest was in making desktop applications that ran locally but technology, and my perspective, has evolved a lot since then. My mind is open to the possibilities that now exist: the web is _the_ platform and I want to build web applications!
 
 
 ## Skills
@@ -179,18 +180,15 @@ I determined the problem, and demonstrating *initiative* I took ownership of the
 
 Whether it was my work on the University of Reading student newspaper, [The Spark](https://issuu.com/sparkweb/docs) or my [blogging](https://blog.makersacademy.com/tagged/makers-survival-guide) while at Makers, I have always been keen on communicating in writing to share knowledge and ideas with others.
 
-
-
-
 ## Experience
 
-**IKEA Wembley** (2014 to 2018)  
-Customer Service Co-worker
+- **IKEA Wembley** (2014 to 2018)  
+*Customer Service Co-worker*  
+From the checkouts, to the Returns department, and finally the Customer Care office. I would always listen (or read) carefully in order to clearly understand what the issue is, and then aim to resolve the issue in the most efficient way possible. 
 
-_During this gap, while staying at home I explored Open University study_
-
-**Oracle Corporation UK Ltd.** (2008)  
-QA Engineer - Industrial Placement
+- **Oracle Corporation UK Ltd.** (2008)  
+*QA Engineer - Industrial Placement*  
+Recognising that software development is more than just coding, I chose this placement in functional QA to gain insight into this important part of the Software Development Life-Cycle. I had to familiarise myself with the specifications and design documents in order to contribute to the test plans. I would carry out manual tests and document the outcomes.
 
 ## Other Interests
 
