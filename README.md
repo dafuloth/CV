@@ -115,12 +115,11 @@ _Jump to:_ [Education](https://github.com/dafuloth/CV/blob/master/README.md#educ
 Learning how to apply industry-standard best practices to write *clean code* to *solve problems* 
 
 - **Fast, self-led learning:**
-  - Rails was new to me but in the space of two weeks I was able to both familiarise myself with the basics and employ it in our group project to build a Rails-based social networking site: **[[Heroku Demo](https://acebook-bcds.herokuapp.com/)]** **[[Acebook (GitHub repo)](https://github.com/dafuloth/acebook-bcds)]**
+  - Rails was new but in the space of two weeks I familiarised myself with the basics and could employ it in our group project to build a Rails-based social networking site: **[[Heroku Demo](https://acebook-bcds.herokuapp.com/)]** **[[Acebook (GitHub repo)](https://github.com/dafuloth/acebook-bcds)]**
 - **Great collaborator:**
   - In pairing and in group projects, I work well with others and can explain my thought process so that we make progress together
 - **Applying industry-standard practices:**
-  - <a title = "Programming paradigm">**OOP**</a>
-  - <a title = "Software Development Process">**TDD**</a> and <a title = "Software Development Process">**BDD**</a>, using testing frameworks: **RSpec**, **Jasmine**, **pytest**, **Cypress**
+  - <a title = "Programming paradigm">**OOP**</a>, <a title = "Software Development Process">**TDD**</a> and <a title = "Software Development Process">**BDD**</a>, with testing frameworks: **RSpec**, **Jasmine**, **pytest**, **Cypress**
   - <a title = "Design pattern">**MVC**</a>
   - *Linting* and *code quality* with **rubocop**, **eslint**, **pylint**
   - Integrating with services to track test coverage and code quality: e.g. **Coveralls**, **CodeClimate** 
@@ -131,27 +130,19 @@ Learning how to apply industry-standard best practices to write *clean code* to 
 
 #### DipHE Applied Computer Science (2006 - deferred)
 
-I took my first formal **programming** courses, in **C** & **C++**. Relatively less friendly, but learning the language and fundamental programming concepts made every other language I would later encounter more accessible, e.g. **Java**, **C#**.
+Had my first formal programming courses. Learning **C** & **C++**, and fundamental programming concepts made every other language I would later encounter more accessible, e.g. **Java**, **C#**.
 
 The **algorithms** module introduced me to algorithmic complexity and **Python**.
 
 In **computer architecture**, **operating systems**, and **compilers**, I gained insight into the relationship between hardware and software, and how computers work under the hood.
 
+_Science Foundation Year (2005 - 2006):_ Physics (77%); Mathematics (75.5%); Electrical Science (67%)
 
-
-_Withdrew before I could complete the degree but check out what I got up to in student media:_
-  * Wrote and presented **News @ [Junction11](https://www.junction11radio.co.uk)** (student radio station)
-  * **Science & Technology Editor** and **Web Editor** at **[Spark*](https://sparknewspaper.co.uk/)**, (student newspaper)
-  * Worked with members of **RU:ON TV** (student TV station) to develop story and star in the short film _[This Dead Planet](https://vimeo.com/40466856)_, an entry for the 2012 [Sci-Fi London 48 Hour Film Competition](https://48hour.sci-fi-london.com/)
-
-_...and also the **Microsoft Imagine Cup** - it's like a worldwide code jam for students:_
-- [Microsoft Imagine Cup](https://en.wikipedia.org/wiki/Imagine_Cup) 2007 Software Design UK Finals - Theme: _Better Education_- Team Leader
-- [Microsoft Imagine Cup](https://en.wikipedia.org/wiki/Imagine_Cup) 2006 Software Design UK Finals - Theme: _Healthier Lives_- Team Member
-
-#### Science Foundation Year (2005 - 2006)
-
-Physics (77%); Mathematics (75.5%); Electrical Science (67%)
-
+_I was active in student media, and in the Microsoft Imagine Cup:_
+- Team Leader  
+  [Microsoft Imagine Cup](https://en.wikipedia.org/wiki/Imagine_Cup) 2007 Software Design UK Finals - Theme: _Better Education_
+- Team Member  
+  [Microsoft Imagine Cup](https://en.wikipedia.org/wiki/Imagine_Cup) 2006 Software Design UK Finals - Theme: _Healthier Lives_
 
 ## More about me
 
