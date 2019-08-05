@@ -183,11 +183,21 @@ Recognising that software development is more than just coding, I chose this pla
 
 ## Other Interests
 
-- Writing: Making full use of Markdown for nice GitHub READMEs, and a [Makers Survival Guide](https://blog.makersacademy.com/tagged/makers-survival-guide)
+- Hackathons & Code Jams
+  - 3-4/08/2019: BTNG 2019 - Curbing the Effects of Brain-drain in Emerging Economies:  
+  [FaaSTrac](https://github.com/saifhaq/BTNG2019-Fuber) 
+  _Giving farmers access to equipment they may not otherwise be able to afford_
+  - 26/07/2019 : [Women Driven Development](https://womendrivendev.org/) #TechItForwardWithPride:  
+  [Spotlight on Asylum Claims](https://github.com/benknight135/wdd-asylum-claims) - _A data science project looking at asylum claim outcomes_
+  - 2006, 2007 - [Microsoft Imagine Cup](https://imaginecup.microsoft.com/) (student code jams)
+
+
 - Meetups and side-projects, e.g.:
-  - 14-05-2019 : Autonomous car machine learning workshop at Futurice Ltd
-  - 17-08-2018 : [Cyber Security Challenge UK](https://www.cybersecuritychallenge.org.uk/competitions/face-to-face): NCA 2018 Face-to-Face Competition
-  - 2006, 2007 : [Microsoft Imagine Cup](https://imaginecup.microsoft.com/) (i.e. code jams)
+  - [React London](https://meetup.react.london/), [London JS Community](https://www.meetup.com/London-JavaScript-Community/)
+  - 14/05/2019 : Autonomous car machine learning workshop at Futurice Ltd
+  - 17/08/2018 : [Cyber Security Challenge UK](https://www.cybersecuritychallenge.org.uk/competitions/face-to-face): NCA 2018 Face-to-Face Competition
+
+- Writing: Making full use of Markdown for nice GitHub READMEs, and a [Makers Survival Guide](https://blog.makersacademy.com/tagged/makers-survival-guide)
   
 - Games: board-, card-, and video-
 - (Returning-)Roleplayer and lapsed LARPer.
