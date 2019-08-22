@@ -114,35 +114,35 @@ _Jump to:_ [Education](https://github.com/dafuloth/CV/blob/master/README.md#educ
 
 Learning how to apply industry-standard best practices to write *clean code* to *solve problems* 
 
-- **Fast, self-led learning:**
-  - Rails was new but in the space of two weeks I familiarised myself with the basics and could employ it in our group project to build a Rails-based social networking site: **[[Heroku Demo](https://acebook-bcds.herokuapp.com/)]** **[[Acebook (GitHub repo)](https://github.com/dafuloth/acebook-bcds)]**
-- **Great collaborator:**
-  - In pairing and in group projects, I work well with others and can explain my thought process so that we make progress together
 - **Applying industry-standard practices:**
   - <a title = "Programming paradigm">**OOP**</a>, <a title = "Software Development Process">**TDD**</a> and <a title = "Software Development Process">**BDD**</a>, with testing frameworks: **RSpec**, **Jasmine**, **pytest**, **Cypress**
-  - <a title = "Design pattern">**MVC**</a>
-  - *Linting* and *code quality* with **rubocop**, **eslint**, **pylint**
-  - Integrating with services to track test coverage and code quality: e.g. **Coveralls**, **CodeClimate** 
-  - Implementing and using a **CI/CD** pipeline with **Travis CI** and **Heroku**
-  - Group projects employing **Agile** processes: *listing & prioritising* tasks, making **estimations**, deciding the **MVP**, pairing in 2-day **sprints**, observing agile ceremonies (morning **stand-ups**, end-of-day **retros**) 
+  - **User Stories**, **Domain Modelling**: **CRC**, **UML** diagrams
+  - *Linting*, *code quality*, *test coverage* with **rubocop**, **eslint**, **pylint**, **simplecov**, **Coveralls**, **CodeClimate**
+  - <a title = "Continuous Integration/Continuous Deployment/Continuous Delivery">**CI/CD**</a> pipeline with **TravisCI**, **CircleCI** and **Heroku**
+  - **Agile** (~2 week) group projects: **Trello** for **Kanban**, <a title = "Minimum Viable Product">**MVP**</a>, **pairing** in 2-day **sprints**, morning **stand-ups**, end-of-day **retros**
 
 ### University of Reading
 
-#### DipHE Applied Computer Science (2006 - deferred)
+#### DipHE Applied Computer Science (2014)
 
-Had my first formal programming courses. Learning **C** & **C++**, and fundamental programming concepts made every other language I would later encounter more accessible, e.g. **Java**, **C#**.
+*Received following period of illness. (Now recovered). **DipHE** is a Level 5 qualification, representing two years of a three-year BSc undergraduate degree*
 
-The **algorithms** module introduced me to algorithmic complexity and **Python**.
+**C** & **C++**, **Java**, **C#**, **Python**. **Computer science** fundamentals: **algorithms**, **computer
+architecture**, **operating systems**, and **compilers**.
 
-In **computer architecture**, **operating systems**, and **compilers**, I gained insight into the relationship between hardware and software, and how computers work under the hood.
-
-_Science Foundation Year (2005 - 2006):_ Physics (77%); Mathematics (75.5%); Electrical Science (67%)
+Preceded by _Science Foundation Year: Physics (77%); Mathematics (75.5%); Electrical Science (67%)
 
 _I was active in student media, and in the Microsoft Imagine Cup:_
 - Team Leader  
   [Microsoft Imagine Cup](https://en.wikipedia.org/wiki/Imagine_Cup) 2007 Software Design UK Finals - Theme: _Better Education_
 - Team Member  
   [Microsoft Imagine Cup](https://en.wikipedia.org/wiki/Imagine_Cup) 2006 Software Design UK Finals - Theme: _Healthier Lives_
+
+## Experience
+
+- **Oracle Corporation UK Ltd.** (2008)  
+*QA Engineer - Industrial Placement*  
+Recognising that software development is more than just coding, I chose this placement in functional QA. In this role, I was reviewing specifications and design documents. Wrote test plans. Did manual tests, documented outcomes.
 
 ## More about me
 
@@ -171,15 +171,11 @@ I determined the problem, and demonstrating *initiative* I took ownership of the
 
 Whether it was my work on the University of Reading student newspaper, [The Spark](https://issuu.com/sparkweb/docs) or my [blogging](https://blog.makersacademy.com/tagged/makers-survival-guide) while at Makers, I have always been keen on communicating in writing to share knowledge and ideas with others.
 
-## Experience
+## Other Experience
 
 - **IKEA Wembley** (2014 to 2018)  
 *Customer Service Co-worker*  
-From the checkouts, to the Returns department, and finally the Customer Care office. I would always listen (or read) carefully in order to clearly understand what the issue is, and then aim to resolve the issue in the most efficient way possible. 
-
-- **Oracle Corporation UK Ltd.** (2008)  
-*QA Engineer - Industrial Placement*  
-Recognising that software development is more than just coding, I chose this placement in functional QA to gain insight into this important part of the Software Development Life-Cycle. I had to familiarise myself with the specifications and design documents in order to contribute to the test plans. I would carry out manual tests and document the outcomes.
+From the checkouts, to the Returns department, and finally the Customer Care office. I would always listen (or read) carefully in order to clearly understand what the issue is, and then aim to resolve the issue in the most efficient way possible.
 
 ## Other Interests
 
