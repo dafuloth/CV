@@ -8,16 +8,15 @@
 
 </div>
 
-It's always been my dream to become a developer: I love problem solving, I love computers and technology, and so it's a good fit. Illness forced me to withdraw from my Computer Science degree before I could complete my final year but my determination spurs me on! As a Makers graduate, I'm getting my life back on track and I aim to make my dream a reality.
+<center><em>
+Why a developer? I love problem solving, I love computers and technology<br>
+Why me? I bring the best of both worlds: Makers + Computer Science at university. I'm ready for anything  
+</em></center>
 
-## Interesting Projects
+## Example Projects
 <table>
   <tr>
-    <td colspan="2" align="left"><em>A journey of learning at Makers:</em></td>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/dafuloth/rps-challenge"><strong>Rock,&nbsp;Paper,&nbsp;Scissors</strong></a><br>
+    <td><a href="https://github.com/dafuloth/rps-challenge"><strong>Rock,&nbsp;Paper,&nbsp;Scissors game</strong></a><br>
       <img src="./icons/ruby.jpg" height="24px" width="24px" alt="Ruby" title="Ruby">
       <img src="./icons/sinatra.png" height="24px" alt="Sinatra" title="Sinatra">
       <img src="./icons/rspec.png" height="24px" width="24px" alt="RSpec" title="RSpec">
@@ -27,99 +26,91 @@ It's always been my dream to become a developer: I love problem solving, I love 
       <img src="./icons/TravisCI.png" height="24px"  alt="Travis CI" title="Travis CI">
     </td>
     <td>
-    A game of Rock, Paper, Scissors:
       <ul>
-        <li><strong>Ruby</strong> web-app using the <strong>Sinatra</strong> framework, and <strong>ERB</strong> templating</li>
-        <li><strong>Capybara</strong> for front-end feature tests</li>
-        <li>Had some fun with <strong>HTML5</strong> and <strong>CSS3</strong></li>
-        <li>Experimented with <strong>Heroku</strong>, deploying my app: <strong><a href="https://quiet-wildwood-32600.herokuapp.com/">[demo]</a></strong></li>
+        <li>My first <strong>Ruby</strong> web-app. <strong>Sinatra</strong> framework, <strong>ERB</strong> templating</li>
+        <li><strong>Capybara</strong> for <strong>front-end feature tests</strong></li>
+        <li>Additional coding in <strong>HTML5</strong> and <strong>CSS3</strong></li>
+        <li>My first <strong>Heroku</strong> deployment: <strong><a href="https://quiet-wildwood-32600.herokuapp.com/">[demo]</a></strong></li>
       </ul>
     </td>
   </tr>
 
   <tr>
     <td>
-      <a href="https://github.com/dafuloth/instagram-challenge"><strong>Instagram Clone</strong></a><br>
-      <img src="./icons/Ruby_On_Rails_Logo.svg" height="24px" alt="Ruby on Rails" title="Ruby on Rails">
-      <img src="./icons/ruby.jpg" height="24px" width="24px" alt="Ruby" title="Ruby">
-      <img src="./icons/rspec.png" height="24px" width="24px" alt="RSpec" title="RSpec">
-      <img src="./icons/materialize.svg" height="24px" alt="Materialize" title="Materialize">
-      <img src="./icons/PostgreSQL.svg" height="24px" alt="PostgreSQL" title="PostgreSQL">
-      <img src="./icons/heroku-logotype-vertical-purple.svg" height="24px" width="24px" alt="Heroku" title="Heroku"><br>
-      <img src="./icons/TravisCI.png" height="24px" alt="Travis CI" title="Travis CI">
-    </td>
-    <td>
-      A learning sandbox: spiking <strong>Materialize</strong> and <strong>Rails</strong> (with <strong>PostgreSQL</strong>) and other experiments:
-      <ul>
-        <li>Implementation of a <strong>CI/CD</strong> pipeline.</li>
-        <li><strong>Travis CI</strong> facilitates Continuous Testing</li>
-        <li>Automatically deploys to <strong>Heroku</strong> when tests pass: <strong><a href = "https://dt-instaclonegram.herokuapp.com/" title="WARNING: Storage backend - e.g. Amazon S3 - is not currently implemented. Heroku filesystem is ephemeral, so any file uploads will very quickly be lost with dyno cycling.">[demo]</a></strong></li>
-      </ul>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <a href="https://github.com/dafuloth/bowling-challenge"><strong>Bowling</strong></a><br>
-      <img src="./icons/JavaScript.svg" height="24px" width="24px" alt="JavaScript" title="JavaScript">
-      <img src="./icons/jasmine.svg" height="24px" width="24px" alt="Jasmine" title="Jasmine">
-      <img src="./icons/Chrome.svg" height="24px" width="24px" alt="Chrome" title="Chrome">
-      <img src="./icons/TravisCI.png" height="24px"  alt="Travis CI" title="Travis CI">
-    </td>
-    <td>
-    Bowling Scorecard console application
-      <ul>
-        <li>Introduced to <strong>JavaScript</strong> in Week 5</li>
-        <li>Development and debugging using <strong>Chrome DevTools</strong></li>
-      </ul>
-    </td>
-  </tr>
-
-  <tr>
-    <td><a href = "https://github.com/dafuloth/NotesApp"><strong>NotesApp</strong></a><br>
-      <img src="./icons/JavaScript.svg" height="24px" width="24px" alt="JavaScript" title="JavaScript">
-      <img src="./icons/Chrome.svg" height="24px" width="24px" alt="Chrome" title="Chrome">
-    </td>
-    <td>
-      A frontend, single page app using only pure <strong>JavaScript</strong>:
-      <ul>
-        <li>Pure <strong>JavaScript</strong> means no frameworks, so no <strong>Jasmine</strong>!</li>
-        <li>So I <a href = "https://github.com/dafuloth/NotesApp/blob/master/spec/assert.js">write my own</a>, understanding that a testing framework's most basic ability is being able to check if an expression evaluates as true.</li>
-      </ul>
-    </td>
-  </tr>
-
-
-  <tr>
-    <td>
-      <a href="https://github.com/dafuloth/python_bank"><strong>Bank (Python)</strong></a><br>
+      <a href="https://github.com/dafuloth/python_bank"><strong>"Bank" tech test</strong></a><br>
       <img src="./icons/Python-logo-notext.svg" height="24px" width="24px" alt="Python" title="Python">
       <img src="./icons/pytest1.png" height="24px" width="30px" alt="pytest" title="pytest">
       <img src="./icons/TravisCI.png" height="24px"  alt="Travis CI" title="Travis CI">
     </td>
     <td>
-      Getting reacquainted with <strong>Python</strong> via the bank tech test
+      <ul>
+        <li>Demonstrating <strong>Python</strong> with <strong>TDD</strong> using <strong>pytest</strong></li>
+        <li>Code quality & linting with <strong>pylint</strong></li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/dafuloth/acebook-bcds"><strong>Acebook</strong><br>Facebook clone</a><br>
+      <img src="./icons/ruby.jpg" height="24px" width="24px" alt="Ruby" title="Ruby">
+      <img src="./icons/PostgreSQL.svg" height="24px" alt="PostgreSQL" title="PostgreSQL">
+      <img src="./icons/Ruby_On_Rails_Logo.svg" height="24px" alt="Ruby on Rails" title="Ruby on Rails">
+      <br><img src="./icons/materialize.svg" height="24px" alt="Materialize" title="Materialize">
+      <img src="./icons/rspec.png" height="24px" width="24px" alt="RSpec" title="RSpec">
+      <br><img src="./icons/TravisCI.png" height="24px"  alt="Travis CI" title="Travis CI">
+      <img src="./icons/heroku-logotype-vertical-purple.svg" height="24px" width="24px" alt="Heroku" title="Heroku">
+    </td>
+    <td>
+      <ul>
+        <li>A 2-week team project. <strong>Rails</strong> app. <strong>PostgreSQL</strong>.</li>
+        <li>Lots of work on project <strong>docs/wiki</strong>, to preserve and share knowledge.</li>
+        <li><strong>TDD</strong> with <strong>RSpec</strong>.</li>
+        <li>Views via <strong>ERB</strong> templating. Styling with <strong>Materialize CSS</strong></li>
+        <li><strong>CI/CD: Travis CI</strong> runs tests and deploys to <strong>Heroku</strong>: <strong><a href="https://acebook-bcds.herokuapp.com/">[demo]</a></strong></li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/dafuloth/acebook-bcds"><strong>MakersBnB</strong><br>AirBnB clone</a><br>
+      <img src="./icons/nodejs.svg" height="24px" alt="Node.js" title="Node.js">
+      <img src="./icons/PostgreSQL.svg" height="24px" alt="PostgreSQL" title="PostgreSQL">
+      <img src="./icons/express.png" height="24px" alt="Express: Fast, unopinionated, minimalist web framework for Node.js" title="Express: Fast, unopinionated, minimalist web framework for Node.js">
+      <br><img src="./icons/html5.svg" height="24px" width="24px" alt="HTML5" title="HTML5">
+      <img src="./icons/JavaScript.svg" height="24px" width="24px" alt="JavaScript" title="JavaScript">
+      <img src="./icons/css3-alt.svg" height="24px" width="24px" alt="CSS3" title="CSS3">
+      <br><img src="./icons/JQuery_logo.svg" height="22px" alt="HTML5" title="HTML5">
+      <img src="./icons/cypress.png" height="24px" alt="HTML5" title="HTML5">
+    </td>
+    <td>
+      <ul>
+        <li>A 2-week team project. <strong>JavaScript/Express</strong> app. <strong>PostgreSQL</strong> via <strong>Node.js</strong>.</li>
+        <li>Views using <strong>HTML, CSS, JavaScript and jQuery</strong></li>
+        <li>Feature tests with <strong>Cypress</strong></li>
+      </ul>
     </td>
   </tr>
 </table>
 
 ---
 
-_Jump to:_ [Education](https://github.com/dafuloth/CV/blob/master/README.md#education) | [More about me](https://github.com/dafuloth/CV/blob/master/README.md#more-about-me) |  [Skills](https://github.com/dafuloth/CV/blob/master/README.md#skills) |  [Experience](https://github.com/dafuloth/CV/blob/master/README.md#experience) | [Interests](https://github.com/dafuloth/CV/blob/master/README.md#other-interests)
+_Jump to:_  [Education](#education)  |  [Experience](#experience)  |  [More about me](#more-about-me)  |  [Skills](#skills)  |  [Other Experience](#other-experience)  |  [Other Interests](#other-interests)
 
 
 ## Education
 
 ### Makers Academy (January 2019 - April 2019)
 
-Learning how to apply industry-standard best practices to write *clean code* to *solve problems* 
+Learning how to apply industry-standard best practices to write *clean code* to *solve problems*
 
 - **Applying industry-standard practices:**
   - <a title = "Programming paradigm">**OOP**</a>, <a title = "Software Development Process">**TDD**</a> and <a title = "Software Development Process">**BDD**</a>, with testing frameworks: **RSpec**, **Jasmine**, **pytest**, **Cypress**
   - **User Stories**, **Domain Modelling**: **CRC**, **UML** diagrams
   - *Linting*, *code quality*, *test coverage* with **rubocop**, **eslint**, **pylint**, **simplecov**, **Coveralls**, **CodeClimate**
   - <a title = "Continuous Integration/Continuous Deployment/Continuous Delivery">**CI/CD**</a> pipeline with **TravisCI**, **CircleCI** and **Heroku**
-  - **Agile** (~2 week) group projects: **Trello** for **Kanban**, <a title = "Minimum Viable Product">**MVP**</a>, **pairing** in 2-day **sprints**, morning **stand-ups**, end-of-day **retros**
+  - **Agile** (~2 week) group projects: **Trello** for **Kanban**, <a title = "Minimum Viable Product">**MVP**</a>, **pairing** in 2-day **sprints**, **stand-ups** and **retros**
 
 ### University of Reading
 
@@ -130,7 +121,7 @@ Learning how to apply industry-standard best practices to write *clean code* to 
 **C** & **C++**, **Java**, **C#**, **Python**. **Computer science** fundamentals: **algorithms**, **computer
 architecture**, **operating systems**, and **compilers**.
 
-Preceded by _Science Foundation Year: Physics (77%); Mathematics (75.5%); Electrical Science (67%)
+_Preceded by Science Foundation Year: Physics (77%); Mathematics (75.5%); Electrical Science (67%)_
 
 _I was active in student media, and in the Microsoft Imagine Cup:_
 - Team Leader  
@@ -151,7 +142,6 @@ I am passionate about solving real problems and building useful things, using co
 My journey started in primary school with a little pixellated turtle. Moving it around the screen with commands in Logo might not have looked like much but it was the spark that opened my mind to the possibilities of programming, and I've been hooked ever since. From there: QuickBASIC (from the Windows 95 CD-ROM!), Visual Basic, C/C++, C#, Java and now more recently, Ruby and JavaScript. The language may change but the problem-solving thought process is universal.
 
 In a time when 28.8k dial-up internet was common and 56k was bleeding edge, when the web was rather more read-only (compared to what it is now), my interest was in making desktop applications that ran locally but technology, and my perspective, has evolved a lot since then. My mind is open to the possibilities that now exist: the web is _the_ platform and I want to build web applications!
-
 
 ## Skills
 
