@@ -6,12 +6,11 @@
 
 [<img src="./icons/github-square.svg" title="GitHub" height="24" align="top">&nbsp;GitHub](https://github.com/dafuloth)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/linkedin.svg" title="LinkedIn" height="24" align="top">&nbsp;LinkedIn](https://www.linkedin.com/in/dafuloth/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/codewars-icon.svg" title="Codewars" height="24" align="top">&nbsp;Codewars](https://www.codewars.com/users/dafuloth/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src="./icons/medium.svg" title="Medium" height="24" align="top">&nbsp;Medium](https://medium.com/@dafuloth)
 
-</div>
-
-<center><em>
+<em>
 Why a developer? I love problem solving, I love computers and technology<br>
 Why me? I bring the best of both worlds: Makers + Computer Science at university. I'm ready for anything  
-</em></center>
+</em>
+</div>
 
 ## Example Projects
 <table>
@@ -81,8 +80,8 @@ Why me? I bring the best of both worlds: Makers + Computer Science at university
       <br><img src="./icons/html5.svg" height="24px" width="24px" alt="HTML5" title="HTML5">
       <img src="./icons/JavaScript.svg" height="24px" width="24px" alt="JavaScript" title="JavaScript">
       <img src="./icons/css3-alt.svg" height="24px" width="24px" alt="CSS3" title="CSS3">
-      <br><img src="./icons/JQuery_logo.svg" height="22px" alt="HTML5" title="HTML5">
-      <img src="./icons/cypress.png" height="24px" alt="HTML5" title="HTML5">
+      <br><img src="./icons/JQuery_logo.svg" height="22px" alt="jQuery" title="jQuery">
+      <img src="./icons/cypress.png" height="24px" alt="Cypress" title="Cypress">
     </td>
     <td>
       <ul>
@@ -121,7 +120,7 @@ Learning how to apply industry-standard best practices to write *clean code* to 
 **C** & **C++**, **Java**, **C#**, **Python**. **Computer science** fundamentals: **algorithms**, **computer
 architecture**, **operating systems**, and **compilers**.
 
-_Preceded by Science Foundation Year: Physics (77%); Mathematics (75.5%); Electrical Science (67%)_
+Preceded by _Science Foundation Year_: Physics (77%); Mathematics (75.5%); Electrical Science (67%)
 
 _I was active in student media, and in the Microsoft Imagine Cup:_
 - Team Leader  
